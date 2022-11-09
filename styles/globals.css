@@ -1,3 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lateef&display=swap");
+.arabic {
+  font-family: "Lateef", serif;
+
+  /* color: ; */
+  font-size: 1.5rem;
+}
 html,
 body {
   padding: 0;
@@ -6,21 +19,17 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
 * {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+body {
+  color: white;
+  background:#1c2237 !important ;
+  /* #282f48 div */
+}
+.button {
+  color: white;
+  background: rgb(255,128,113);
+  background: linear-gradient(90deg, rgba(255,128,113,1) 0%, rgba(255,105,157,1) 100%);
 }
