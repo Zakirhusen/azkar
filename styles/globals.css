@@ -9,7 +9,7 @@
   font-family: "Lateef", serif;
 
   /* color: ; */
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 html,
 body {
@@ -17,6 +17,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    
 }
 
 * {
@@ -32,4 +33,9 @@ body {
   color: white;
   background: rgb(255,128,113);
   background: linear-gradient(90deg, rgba(255,128,113,1) 0%, rgba(255,105,157,1) 100%);
+}
+audio::-webkit-media-controls-panel{
+background: rgb(255,128,113);
+
+background: linear-gradient(90deg, rgba(255,128,113,1) 0%, rgba(255,105,157,1) 100%);
 }
