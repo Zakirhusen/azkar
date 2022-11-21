@@ -57,7 +57,7 @@ const languageFunc=(language) => {
           role="menu"
           aria-orientation="vertical"
           aria-labelledby="menu-button"
-          tabindex="-1"
+          tabIndex="-1"
         >
           <div className="py-1 w-40" role="none">
             {/* <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" --> */}
@@ -116,7 +116,7 @@ const languageFunc=(language) => {
           role="menu"
           aria-orientation="vertical"
           aria-labelledby="menu-button"
-          tabindex="-1"
+          tabIndex="-1"
         >
           <div className="py-1 w-40" role="none">
             {/* <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" --> */}
@@ -154,19 +154,19 @@ const languageFunc=(language) => {
 {
   azkarData.map((elem,index)=>{
     return (
-      <>
-      <div key={Math.random()} className="azkar-container bg-[#282f48] my-5 p-5 rounded-md space-y-5 ">
+      <div key={Math.random()}>
+      <div  className="azkar-container bg-[#282f48] my-5 p-5 rounded-md space-y-5 ">
       <div className="heading text-2xl font-medium text-center uppercase">Dhikr {index+1}</div>
         <div className="arabicText text-center text-xl">
         {/* arabic text */}
           {elem.ArabicText}
         </div>
         <div className="flex justify-center">
-          <audio controls className="">
+          <audio controls className="z-10">
           <source src={elem.Audio} type="audio/mpeg" className=""/>
           </audio>
         </div>
-        <div className="transliteration font-serif text-lg text-center">
+        <div className="transliteration font-light text-lg text-center">
         {/* transliteration according to language */}
           {elem[`${azkarLanguage}Text`]}
         </div>
@@ -176,7 +176,7 @@ const languageFunc=(language) => {
         </div>
         <div className="text-center text-gray-400 font-mono italic text-lg">({elem.Repeat} {data[0][azkarLanguage]})</div>
       </div>
-      </>
+      </div>
     )
   })
 }
