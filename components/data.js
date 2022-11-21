@@ -25,7 +25,7 @@ export const data=
 	},
 	{
 	"Id": 1,
-	"ArabicText": "أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ ﴿اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَوَاتِ وَالْأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+	"ArabicText": "أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ  ۞ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَوَاتِ وَالْأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
 	"EnglishText": "A'oothu billaahi minash-Shaytaanir-rajeem.Allaahu laa ilaaha illa huwal hayyul qayyoom, laa ta'khuzuhu sinatuw  walaa naum, lahu maa fis samaawaati wamaa fil arz, man zallazi yash-fa'ou 'indahu illa bi-iznih, ya'lamu maa baina aideehim wamaa khalfahum, walaa yuhitoona bishae-im min 'ilmihee illaa bimaa shaa-a, wasi'a kursiyyuhus samaawaati wal arz, walaa ya-ooduhu hifzuhumaa, wahuwal 'aliyyul 'azeem.",
 	"EnglishTranslate": "Allah there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
 	"RomanUrduText": "Allaahu laa ilaaha illa huwal hayyul qayyoom, laa ta'khuzuhu sinatuw  walaa naum, lahu maa fis samaawaati wamaa fil arz, man zallazi yash-fa'ou 'indahu illa bi-iznih, ya'lamu maa baina aideehim wamaa khalfahum, walaa yuhitoona bishae-im min 'ilmihee illaa bimaa shaa-a, wasi'a kursiyyuhus samaawaati wal arz, walaa ya-ooduhu hifzuhumaa, wahuwal 'aliyyul 'azeem.",
@@ -38,7 +38,7 @@ export const data=
 	},
 	{
 	"Id": 1,
-	"ArabicText": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. قُلْ هُوَ اللهُ أَحَدٌ ۞ اللهُ الصَّمَدُ ۞ لَمْ يَلِدْ وَلَمْ يُولَدْ ۞ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+	"ArabicText": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۞ قُلْ هُوَ اللهُ أَحَدٌ ۞ اللهُ الصَّمَدُ ۞ لَمْ يَلِدْ وَلَمْ يُولَدْ ۞ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
 	"EnglishText": "Bismillaahir-Rahmaanir-Raheem. Qul Huwallaahu 'Ahad. Allaahus-Samad. Lam yalid wa lam yoolad. Wa lam yakun lahu kufuwan 'ahad.",
 	"EnglishTranslate": " (1) Say, He is Allah, [who is] One,( 2 )   Allah, the Eternal Refuge.( 3 )   He neither begets nor is born,( 4 )   Nor is there to Him any equivalent.",
 	"RomanUrduText": "Bismillaahir-Rahmaanir-Raheem. Qul Huwallaahu 'Ahad. Allaahus-Samad. Lam yalid wa lam yoolad. Wa lam yakun lahu kufuwan 'ahad.",
@@ -63,7 +63,7 @@ export const data=
 	},
 	{
 	"Id": 1,
-	"ArabicText": " بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ. قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۞ مَلِكِ النَّاسِ ۞ إِلَهِ النَّاسِ ۞ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۞ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۞ مِنَ الْجِنَّةِ وَالنَّاسِ",
+	"ArabicText": " بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيم ۞ قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۞ مَلِكِ النَّاسِ ۞ إِلَهِ النَّاسِ ۞ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۞ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۞ مِنَ الْجِنَّةِ وَالنَّاسِ",
 	"EnglishText": "Bismillaahir-Rahmaanir-Raheem. Qul a'oozu birabbin naas. Malikin naas. Ilaahin naas. Min sharril waswaasil khannaas. Allazi yuwaswisu fee sudoorin naas. Minal jinnati wannaas.",
 	"EnglishTranslate": " 1) Say, I seek refuge in the Lord of mankind,( 2 )   The Sovereign of mankind.( 3 )   The God of mankind,( 4 )   From the evil of the retreating whisperer -( 5 )   Who whispers [evil] into the breasts of mankind -( 6 )   From among the jinn and mankind.",
 	"RomanUrduText": "Bismillaahir-Rahmaanir-Raheem. Qul a'oozu birabbin naas. Malikin naas. Ilaahin naas. Min sharril waswaasil khannaas. Allazi yuwaswisu fee sudoorin naas. Minal jinnati wannaas.",

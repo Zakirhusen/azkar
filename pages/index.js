@@ -157,7 +157,7 @@ const languageFunc=(language) => {
       <div key={Math.random()}>
       <div  className="azkar-container bg-[#282f48] my-5 p-5 rounded-md space-y-5 ">
       <div className="heading text-2xl font-medium text-center uppercase">Dhikr {index+1}</div>
-        <div className="arabicText text-center text-xl">
+        <div className="arabicText arabic leading-snug text-center text-xl">
         {/* arabic text */}
           {elem.ArabicText}
         </div>
