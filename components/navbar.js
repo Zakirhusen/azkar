@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import pic from "../public/images.png";
 import Link from "next/link";
+import {IoToggle} from "react-icons/io5";
 export default function Navbar({darkModeStateFunc}) {
   const [toggleMobileMenu, setToggleMobileMenu] = useState(true);
   const [downloadDropDown, setDownloadDropDown] = useState(false);
@@ -298,27 +299,14 @@ export default function Navbar({darkModeStateFunc}) {
               </div>
             </div>
             <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+            <span className="font-semibold mr-3">Dark Mode</span>
               <button
                 type="button"
                 onClick={switchModeFunc}
-                className="rounded-full w-8 p-1"
-              >
-              <img src={toggleDarkMode? "lightmode.png":"darkmode.png"} alt="" />
-                {/* <svg
-                  className="h-6 w-6"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  strokeWidth="1.5"
-                  stroke="currentColor"
-                  aria-hidden="true"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75v-.7V9A6 6 0 006 9v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0"
-                  />
-                </svg> */}
+                className="rounded-full  w-8 h-5"
+              > 
+              {/* <img src={toggleDarkMode? "lightmode.png":"darkmode.png"} alt="" /> */}
+              {toggleDarkMode?<IoToggle color="" className=" m-0 p-0 button rounded-full h-full w-full" size="" />:<IoToggle className=" m-0 p-0 rotate-180 rounded-full button h-full w-full" size="2rem"/>}
               </button>
             </div>
           </div>

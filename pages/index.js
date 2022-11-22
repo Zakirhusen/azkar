@@ -2,6 +2,8 @@ import Head from "next/head";
 import Image from "next/image";
 import {useEffect, useState } from "react";
 import {data} from "../components/data"
+import {BsFillArrowUpCircleFill} from "react-icons/bs"
+
 export default function Home({toggleDarkMode}) {
   const [azkarData, setAzkarData] = useState(()=>data[1].filter((elem,index)=>elem["Timing"]=="morningAndEvening" || elem["Timing"]=="morning"))
   const [languageDropdown, setLanguageDropdown] = useState(false);
@@ -194,19 +196,20 @@ const languageFunc=(language) => {
 
       {/* on clicking window moves top  */}
       <div
-      onClick={() => window.scrollTo({top:0,left:0,behavior:"smooth"})}
+            onClick={() => window.scrollTo({top:0,left:0,behavior:"smooth"})}
             type="button"
-            className="flex w-10 flex-col fixed bottom-10 -70 right-8 z-9999 h-10 items-center m-0 justify-center rounded-full button p-2  shadow-sm "
+            className="flex w-10 flex-col opacity-70 hover:opacity-100 fixed bottom-5 right-5 z-9999 h-10 items-center m-0 justify-center rounded-full button p-2  shadow-sm "
             id="menu-button"
             aria-expanded="true"
             aria-haspopup="true"
           >
             {/* <div className="text-lg -rotate-90 opacity-100 text-center block">&gt;</div> */}
-            <div className="text-lg opacity-100 text-center block">Top</div>
+            <BsFillArrowUpCircleFill color=""  className="button" size="2rem"></BsFillArrowUpCircleFill>
+            {/* <div className="opacity-100 text-sm text-center block">Top</div> */}
             
           </div>
       <footer className="">
-        <div className="m-4 h-screen">sssssssssss</div>
+        <div className="m-4 h-4">footer</div>
       </footer>
       </div>
     </>
