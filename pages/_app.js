@@ -1,11 +1,19 @@
-import '../styles/globals.css'
-import Navbar from '../components/navbar'
-
+import "../styles/globals.css";
+import Navbar from "../components/navbar";
+import { useState } from "react";
 function MyApp({ Component, pageProps }) {
-  return<>
-  <Navbar/>
-   <Component {...pageProps} />
-  </>
-}
+  const [toggleDarkMode, setToggleDarkMode] = useState(true)
+  // getting data from child
+  const darkModeStateFunc =(mode) => {
+    setToggleDarkMode(!mode)
+   }
+  return (
+    <>
 
-export default MyApp
+
+      <Navbar darkModeStateFunc={darkModeStateFunc} />
+      <Component {...pageProps} toggleDarkMode={toggleDarkMode} />
+    </>
+  );
+}
+export default MyApp;

@@ -2,15 +2,17 @@ import Head from "next/head";
 import Image from "next/image";
 import {useEffect, useState } from "react";
 import {data} from "../components/data"
-export default function Home() {
+export default function Home({toggleDarkMode}) {
   const [azkarData, setAzkarData] = useState(()=>data[1].filter((elem,index)=>elem["Timing"]=="morningAndEvening" || elem["Timing"]=="morning"))
   const [languageDropdown, setLanguageDropdown] = useState(false);
   const [azkarTimingDropdown, setAzkarTimingDropdown] = useState(false);
+  const [azkarTiming, setAzkarTiming] = useState("morning");
   const [azkarLanguage, setAzkarLanguage] = useState('English')
   // const [noOfTimesRepeatLang, setNoOfTimesRepeatLang] = useState('English')
   let azkarTimingFunc=(timing)=>{
     // console.log('timing',timing.target.value);
     console.log('timing',timing);
+    setAzkarTiming(timing)
     setAzkarTimingDropdown(!azkarTimingDropdown)
     setAzkarData(()=>data[1].filter((elem,index)=>elem["Timing"]=="morningAndEvening" || elem["Timing"]==timing))
   }
@@ -20,7 +22,7 @@ const languageFunc=(language) => {
  }
   return (
     <>
-      <div className="wrapper my-6 mx-4">
+      <div className="wrapper  my-6 mx-4">
       <div className="relative inline-block text-left">
         <div>
           <button
@@ -32,7 +34,7 @@ const languageFunc=(language) => {
             aria-haspopup="true"
             
           >
-            Morning
+            {azkarTiming}
             {/* <!-- Heroicon name: mini/chevron-down --> */}
             <svg
               className="-mr-1 ml-2 h-5 w-5"
@@ -86,7 +88,7 @@ const languageFunc=(language) => {
           <button
             onClick={() => setLanguageDropdown(!languageDropdown)}
             type="button"
-            className="inline-flex w-full justify-center rounded-sm button bg-white px-4 border bottom-2 border-spacing-4 ml-auto py-2 text-sm font-medium  shadow-sm hover:bg-gray-50 "
+            className="inline-flex w-full justify-center rounded-sm button bg-white px-4 border bottom-2 border-spacing-4 ml-auto py-2 text-sm font-medium  shadow-sm hover:bg-gray-50"
             id="menu-button"
             aria-expanded="true"
             aria-haspopup="true"
@@ -94,7 +96,7 @@ const languageFunc=(language) => {
             {azkarLanguage}
             {/* <!-- Heroicon name: mini/chevron-down --> */}
             <svg
-              className="-mr-1 ml-2 h-5 w-5"
+              className="-mr-1 ml-2 h-5 w-5 "
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"
               fill="currentColor"
@@ -142,6 +144,15 @@ const languageFunc=(language) => {
               onClick={(e) => languageFunc(e.target.value)}
               className="text-white block capitalize px-4 py-2 text-base"
               role="menuitem"
+              id="menu-item-1"
+              value="Urdu"
+            >
+              urdu
+            </button>
+            <button
+              onClick={(e) => languageFunc(e.target.value)}
+              className="text-white block capitalize px-4 py-2 text-base"
+              role="menuitem"
               id="menu-item-2"
               value="Kannada"
             >
@@ -155,7 +166,7 @@ const languageFunc=(language) => {
   azkarData.map((elem,index)=>{
     return (
       <div key={Math.random()}>
-      <div  className="azkar-container bg-[#282f48] my-5 p-5 rounded-md space-y-5 ">
+      <div  className={`azkar-container ${!toggleDarkMode?"bg-[#282f48]":"bg-white"}  my-5 p-5 rounded-md space-y-5`} >
       <div className="heading text-2xl font-medium text-center uppercase">Dhikr {index+1}</div>
         <div className="arabicText arabic leading-snug text-center text-xl">
         {/* arabic text */}
@@ -166,23 +177,36 @@ const languageFunc=(language) => {
           <source src={elem.Audio} type="audio/mpeg" className=""/>
           </audio>
         </div>
-        <div className="transliteration font-light text-lg text-center">
+        <div className={`transliteration ${!toggleDarkMode?" text-gray-200":"text-gray-600"} font-medium text-lg text-center`}>
         {/* transliteration according to language */}
           {elem[`${azkarLanguage}Text`]}
         </div>
-        <div className="translation font-mono text-center">
+        <div className="translation  font-mono  text-center">
         {/* translate according to languague */}
         {elem[`${azkarLanguage}Translate`]}
         </div>
-        <div className="text-center text-gray-400 font-mono italic text-lg">({elem.Repeat} {data[0][azkarLanguage]})</div>
+        <div className="text-center  font-mono font-bold text-lg">({elem.Repeat} {data[0][azkarLanguage]})</div>
       </div>
       </div>
     )
   })
 }
-      
+
+      {/* on clicking window moves top  */}
+      <div
+      onClick={() => window.scrollTo({top:0,left:0,behavior:"smooth"})}
+            type="button"
+            className="flex w-10 flex-col fixed bottom-10 -70 right-8 z-9999 h-10 items-center m-0 justify-center rounded-full button p-2  shadow-sm "
+            id="menu-button"
+            aria-expanded="true"
+            aria-haspopup="true"
+          >
+            {/* <div className="text-lg -rotate-90 opacity-100 text-center block">&gt;</div> */}
+            <div className="text-lg opacity-100 text-center block">Top</div>
+            
+          </div>
       <footer className="">
-        <div className="m-4"></div>
+        <div className="m-4 h-screen">sssssssssss</div>
       </footer>
       </div>
     </>

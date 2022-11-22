@@ -2,11 +2,18 @@ import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import pic from "../public/images.png";
 import Link from "next/link";
-export default function Navbar() {
+export default function Navbar({darkModeStateFunc}) {
   const [toggleMobileMenu, setToggleMobileMenu] = useState(true);
   const [downloadDropDown, setDownloadDropDown] = useState(false);
+  const [toggleDarkMode, setToggleDarkMode] = useState(true)
   const refMobileMenu = useRef(null);
   const refMobileMenuDisplay = useRef(null);
+
+  // toggle dark mode function
+  const switchModeFunc =() => { 
+    setToggleDarkMode(!toggleDarkMode)
+   }
+
   // here is useeffect is used for if anywhere clicked in window menu is toggled
   useEffect(() => {
     let toggleFunc = (e) => {
@@ -19,15 +26,25 @@ export default function Navbar() {
         setToggleMobileMenu(true);
       }
     };
+    
+    // sending state to parent component
+    darkModeStateFunc(toggleDarkMode)
+    if (!toggleDarkMode) {
+      document.body.style.color="black"
+      document.body.style.background="#f5eef1"
+    }else{
+      document.body.style.background="#1c2237"
+      document.body.style.color="white"
+    }
     document.body.addEventListener("click", toggleFunc);
     return () => {
-      document.body.removeEventListener("click", toggleFunc);
+    document.body.removeEventListener("click", toggleFunc);
     };
-  }, [toggleMobileMenu]);
+  }, [toggleDarkMode,toggleMobileMenu]);
 
   return (
     <>
-      <nav className="bg-[#282f48] sticky top-0 z-20 ">
+      <nav className={`${toggleDarkMode?"bg-[#282f48]":"bg-white"} sticky top-0 z-20`} >
         <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
           <div className="relative flex h-16 items-center justify-between">
             <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -85,7 +102,7 @@ export default function Navbar() {
             <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
               <div className="flex flex-shrink-0 items-center">
                 <img
-                  className="block h-20 rounded- lg:block"
+                  className="block h-16 rounded- lg:block"
                   src="images2.png"
                   alt="Your Company"
                 />
@@ -283,11 +300,11 @@ export default function Navbar() {
             <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
               <button
                 type="button"
-                className="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
+                onClick={switchModeFunc}
+                className="rounded-full w-8 p-1"
               >
-                <span className="sr-only">View notifications</span>
-                {/* <!-- Heroicon name: outline/bell --> */}
-                <svg
+              <img src={toggleDarkMode? "lightmode.png":"darkmode.png"} alt="" />
+                {/* <svg
                   className="h-6 w-6"
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -301,7 +318,7 @@ export default function Navbar() {
                     strokeLinejoin="round"
                     d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75v-.7V9A6 6 0 006 9v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0"
                   />
-                </svg>
+                </svg> */}
               </button>
             </div>
           </div>

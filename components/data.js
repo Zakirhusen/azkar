@@ -4,6 +4,7 @@ export const data=
 	"English": "Times",
 	"Kannada":"ಸಲ",
 	"RomanUrdu":"Martaba",
+	"Urdu":"Martaba",
 	"EnglishEvening": "Evening",
 	"KannadaEvening":"ಸಂಜೆ",
 	"RomanUrduEvening":"Shaam",
@@ -19,6 +20,8 @@ export const data=
 	"RomanUrduTranslate":"Saari tareef sirf Allah ke liye hai aur darood o salaam ho us Nabi par jis ke baad koi Nabi nahi.",
 	"KannadaText":"ಅಲ್‍ಹಮ್ದುಲಿಲ್ಲಾಹಿ ವಹ್ದಹೂ, ವಸ್ಸಲಾತು ವಸ್ಸಲಾಮು ಅಲಾ ಮನ್ ಲಾ ನಬಿಯ್ಯ ಬಅïದಹು",
 	"KannadaTranslate":"ಸರ್ವಸ್ತುತಿಗಳು ಅಲ್ಲಾಹನಿಗೆ ಮೀಸಲು, ಅವನ ಸಲಾತ್ ಮತ್ತು ಸಲಾಮ್ ಯಾರ ಬಳಿಕ ಬೇರೆ ಪ್ರವಾದಿಯಿಲ್ಲವೋ ಅವರ ಮೇಲಿರಲಿ.",
+	"UrduText": "Alhamdulillahi wahdah, wassalaatu wassalaamu a'laa man la nabiyya ba'adah",
+	"UrduTranslate":"تمام تعریفیں اللہ  کے لئے ہیں جو یکتا ہے،اور درودوسلام اس پر جس کے بعد کوئی نبی نہیں",
 	"Timing":"morningAndEvening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/75.mp3"
@@ -32,6 +35,8 @@ export const data=
 	"RomanUrduTranslate":"Panah mangta hun mein Allah ki shaytan mardood se. Allah (woh hai ke) us ke siwa koi mabood nahi,woh zindah javed (aur) qaim o daaim hai usay onghaati hai na neend usi ka hai jo kuch asmano mein haiaur jo kuch zameen mein hai kon hai woh jo us keyahaan sifarish kar sakay magar us ki ijazat se? wohjaanta hai jo kuch logon ke samnay hai aur jo kuchhun ke peechay hai, aur woh us ke ilm mein se kisicheez ka ihata nahi kar saktay magar jis qadar wohkhud chahay, us ki kursi ne asmano aur zameen koghair rakha hai aur usay un dono ki hifazat nahithakaati aur woh buland tar nihayat azmat wala hai",
 	"KannadaText": "ಅಲ್ಲಾಹು ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಹುವಲ್ ಹಯ್ಯುಲ್ ಕಯ್ಯೂಮ್, ಲಾ ತಅïಖುದುಹೂ ಸಿನತುನ್ ವಲಾ ನೌಮ್, ಲಹೂ ಮಾ ಫಿ ಸ್ಸಮಾವಾತಿ ವಮಾ ಫಿಲ್ ಅರ್ದ್, ಮನ್ ದಲ್ಲದೀ ಯಶ್‍ಫಉ ಇನ್ದಹೂ ಇಲ್ಲಾ ಬಿಇದ್‍ನಿಹ್, ಯಅïಲಮು ಮಾ ಬೈನ ಐದೀಹಿಮ್ ವಮಾ ಖಲ್ಫಹುಮ್ ವಲಾ ಯುಹೀತೂನ ಬಿಶೈಇನ್ ಮಿನ್ ಇಲ್ಮಿಹೀ ಇಲ್ಲಾ ಬಿಮಾ ಶಾಅï, ವಸಿಅ ಕುರ್ಸಿಯ್ಯುಹು ಸ್ಸಮಾವಾತಿ ವಲ್ ಅರ್ದ ವಲಾ ಯಊದುಹೂ ಹಿಫ್‍ದುಹುಮಾ, ವಹುವಲ್ ಅಲಿಯ್ಯುಲ್ ಅದೀಮ್ ",
 	"KannadaTranslate":"ಅಲ್ಲಾಹ್! ಅವನಲ್ಲದೆ ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ, ಅವನು ಎಂದೆಂದಿಗೂ ಬದುಕಿರುವವನೂ ಎಲ್ಲವನ್ನೂ ನಿಯಂತ್ರಿಸುವವನೂ ಆಗಿದ್ದಾನೆ. ತೂಕಡಿಕೆಯಾಗಲಿ ನಿದ್ರೆಯಾಗಲಿ ಅವನನ್ನು ಬಾಧಿಸದು. ಆಕಾಶಗಳಲ್ಲಿ ಮತ್ತು ಭೂಮಿಯಲ್ಲಿರುವುದೆಲ್ಲವೂ ಅವನದ್ದು. ಅವನ ಅನುಮತಿಯಿಲ್ಲದೆ ಅವನ ಬಳಿ ಶಿಫಾರಸು ಮಾಡುವವನು ಯಾರಿದ್ದಾನೆ? ಅವರ ಮುಂದಿರುವುದನ್ನೂ ಹಿಂದಿರುವುದನ್ನೂ ಅವನು ಅರಿಯುತ್ತಾನೆ. ಅವನ ಅರಿವಿನಿಂದ ಅವನು ಇಚ್ಛಿಸಿದ್ದನ್ನಲ್ಲದೆ ಬೇರೇನನ್ನೂ ಆವರಿಸಿಕೊಳ್ಳಲು ಅವರಿಗೆ ಸಾಧ್ಯವಿಲ್ಲ. ಅವನ ಕುರ್ಸೀ ಆಕಾಶಗಳನ್ನೂ ಭೂಮಿಯನ್ನೂ ವ್ಯಾಪಿಸಿದೆ. ಅವುಗಳ ಸಂರಕ್ಷಣೆಯು ಅವನಿಗೊಂದು ವಿಷಯವೇ ಅಲ್ಲ. ಅವನು ಅತ್ಯುನ್ನತನೂ ಮಹೋನ್ನತನೂ ಆಗಿದ್ದಾನೆ.",
+	"UrduText": "A'oothu billaahi minash-Shaytaanir-rajeem.Allaahu laa ilaaha illa huwal hayyul qayyoom, laa ta'khuzuhu sinatuw  walaa naum, lahu maa fis samaawaati wamaa fil arz, man zallazi yash-fa'ou 'indahu illa bi-iznih, ya'lamu maa baina aideehim wamaa khalfahum, walaa yuhitoona bishae-im min 'ilmihee illaa bimaa shaa-a, wasi'a kursiyyuhus samaawaati wal arz, walaa ya-ooduhu hifzuhumaa, wahuwal 'aliyyul 'azeem.",
+	"UrduTranslate":"اللہ  وہ ذات ہے جس کے سوا کوئی سچامعبود نہیں۔وہ ذندہ جاوید ہمیشہ قائم رہنے والا ہے۔اسے اونگھ آتی ہے نہ نیند۔اسی کا ہے جو کچھ آسمانوں میں ہے اور جو کچھ ذمین میں ہے۔کون ہے وہ جو اسکے ہاں اسکی اجازت کے بغیر (کسی کی)سفارش کرسکے؟ وہ ان چیزوں کو جانتا ہے  جو ان کے سامنے ہیں اور جو انکے پیچھے ہیں۔اوروہ(لوگ)اس کے علم میں سے کسی چیز پر دسترس نہیں  رکھتے تاہم جس قدر وہ خود چاہے۔اس کی کرسی حاوی ہے ۔آسمانوں اورذمین پر اور نہیں گراں گزرتی اسے حفاظت ان دونوں کی اور وہ بلند مرتبہ ہے عظمت والا ہے",
 	"Timing":"morningAndEvening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/75.mp3"
@@ -45,6 +50,8 @@ export const data=
 	"RomanUrduTranslate":"Allah taala ke naam se (shuru) jo nihayat meharban, bahot rahem karne wala hai {Aap keh dijiye ke woh Allah taala aik (hi) hai. Allah taala be niyaz hai. na us se koi paida huwa na woh kisi se paida huwa. aur na koi us ka humsar hai",
 	"KannadaText": "ಕುಲ್ ಹುವಲ್ಲಾಹು ಅಹದ್, ಅಲ್ಲಾಹು ಸ್ಸಮದ್, ಲಮ್ ಯಲಿದ್ ವಲಮ್ ಯೂಲದ್, ವಲಮ್ ಯಕುಲ್ಲಹೂ ಕುಫುವನ್ ಅಹದ್. ",
 	"KannadaTranslate":"ಹೇಳಿರಿ: ಅವನು ಅಲ್ಲಾಹು ಏಕೈಕನು. ಅಲ್ಲಾಹು ನಿರಾವಲಂಬಿಯೂ ಸರ್ವರಿಗೂ ಆಶ್ರಯದಾತನೂ ಆಗಿದ್ದಾನೆ. ಅವನಿಗೆ ಯಾವುದೇ ಸಂತಾನವಿಲ್ಲ, ಅವನು ಯಾರ ಸಂತಾನವೂ ಅಲ್ಲ. ಅವನಿಗೆ ಸರಿಸಾಟಿಯಾಗಿ ಯಾರೂ ಇಲ್ಲ.",
+	"UrduText": "Bismillaahir-Rahmaanir-Raheem. Qul Huwallaahu 'Ahad. Allaahus-Samad. Lam yalid wa lam yoolad. Wa lam yakun lahu kufuwan 'ahad.",
+	"UrduTranslate":"شروع کرتا ہوں اللہ  کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔(آپﷺ)کہہ دیجئیے کہ وہ اللہ  ایک ہے۔ اللہ  بے نیاز ہے۔ اسکی کوئی اولاد ہے اور نہ وہ کسی کی اولاد، اور نہ ہی کوئی اس کا ہم پلہ ہے۔",
 	"Timing":"morningAndEvening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/76.mp3"
@@ -58,6 +65,9 @@ export const data=
 	"RomanUrduTranslate":"Allah taala ke naam se (shuru) jo nihayat meharban, bahot rahem karne wala hai {Aap keh dijiye! ke mein subah ke Rab ki panah mein aata hun. us cheez ke shar se jo us ne paida ki hai. aur andhera karne walay ke shar se jab woh chup jaye aur un ke shar se jo girhon mein phoonknay wali hain. aur hasad karne walay ke shar se bhi jab woh hasad kare.",
 	"KannadaText": "ಕುಲ್ ಅಊದು ಬಿರಬ್ಬಿಲ್ ಫಲಕ್, ಮಿನ್ ಶರ್ರಿ ಮಾ ಖಲಕ್, ವಮಿನ್ ಶರ್ರಿ ಗಾಸಿಕಿನ್ ಇದಾ ವಕಬ್, ವಮಿನ್ ಶರ್ರಿ ನ್ನಪ್ಫಾಸಾತಿ ಫಿಲ್ ಉಕದ್, ವಮಿನ್ ಶರ್ರಿ ಹಾಸಿದಿನ್ ಇದಾ ಹಸದ್.",
 	"KannadaTranslate":"ಹೇಳಿರಿ: ಪ್ರಭಾತದ ರಬ್ಬ್‍ನೊಂದಿಗೆ ಅವನು ಸೃಷ್ಟಿಸಿದ ಕೆಡುಕಿನಿಂದ, ರಾತ್ರಿಯು ಆವರಿಸುವಾಗ ಅದರ ಕೆಡುಕಿನಿಂದ, ಗಂಟುಗಳಲ್ಲಿ ಊದುವವರ ಕೆಡುಕಿನಿಂದ ಮತ್ತು ಅಸೂಯೆಗಾರನು ಅಸೂಯೆಪಡುವಾಗ ಅವನ ಕೆಡುಕಿನಿಂದ ನಾನು ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "Bismillaahir-Rahmaanir-Raheem.Qul a'oozu birabbil falaq. Min sharri maa khalaq. Wa min sharri ghaasiqin izaa waqab. Wa  sharrin naffaasaati fil 'uqad. Wa min sharri haasidin izaa hasad.",
+	"UrduTranslate":"شروع کرتا ہوں اللہ  کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔(آپﷺ)کہہ دیجئیے کہ میں پناہ چاہتا ہوں صبح کے رب کی، اس چیز کے شر سے جو اس نے پیدا کی اور اندھیرا کرنے والے کے شر سے جب وہ چھپ جائے۔ اور گرہوں میں پھونکنے والیوں کے شر سے اور حسد کرنے والے کے شر سے جب وہ حسد کرے۔",
+	"Timing":"morningAndEvening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/76.mp3"
 	},
@@ -70,6 +80,8 @@ export const data=
 	"RomanUrduTranslate":"Qul 'a'oothu birabbin-naas. Malikin-naas. 'Ilaahin-naas. Min sharril-waswaasil-khannaas. Allathee yuwaswisu fee sudoorin-naas. Minal-jinnati wannaas.",
 	"KannadaText": "ಕುಲ್ ಅಊದು ಬಿರಬ್ಬಿ ನ್ನಾಸ್, ಮಲಿಕಿ ನ್ನಾಸ್, ಇಲಾಹಿ ನ್ನಾಸ್, ಮಿನ್ ಶರ್ರಿಲ್ ವಸ್ವಾಸಿಲ್ ಖನ್ನಾಸ್, ಅಲ್ಲದೀ ಯುವಸ್ವಿಸು ಫೀ ಸುದೂರಿ ನ್ನಾಸ್, ಮಿನಲ್ ಜಿನ್ನತಿ ವನ್ನಾಸ್ (ಮೂರು ಸಲ)",
 	"KannadaTranslate":"ಹೇಳಿರಿ: ಜನರ ರಬ್ಬ್‍ನೊಂದಿಗೆ, ಜನರ ಸಾಮ್ರಾಟನೊಂದಿಗೆ, ಜನರ ಆರಾಧ್ಯನೊಂದಿಗೆ, ಮನುಷ್ಯರ ಹೃದಯಗಳಲ್ಲಿ ದುರ್ಬೋಧನೆ ಮಾಡಿ ಹಿಂದಕ್ಕೆ ಸರಿಯುವ ಮತ್ತು ಮನುಷ್ಯರು ಹಾಗೂ ಜಿನ್ನ್‍ಗಳಲ್ಲಿ ಸೇರಿದ ದುರ್ಬೋಧಕರ 	ಕೆಡುಕಿನಿಂದ ನಾನು ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ",
+	"UrduText": "Bismillaahir-Rahmaanir-Raheem. Qul a'oozu birabbin naas. Malikin naas. Ilaahin naas. Min sharril waswaasil khannaas. Allazi yuwaswisu fee sudoorin naas. Minal jinnati wannaas.",
+	"UrduTranslate":"شروع کرتا ہوں اللہ  کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔(آپﷺ)کہہ دیجئیے کہ میں پناہ میں آتا ہوں لوگوں کے رب کی،لوگوں کے بادشاہ کی ،لوگوں کے معبود کی،وسوسہ ڈالنے والے شیطان سے جو آنکھوں سے اوجھل ہے۔ جو وسوسہ ڈالتا ہے لوگوں کے سینوں میں ۔جنوں میں سے اور انسانوں میں سے۔",
 	"Timing":"morningAndEvening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/76.mp3"
@@ -83,6 +95,8 @@ export const data=
 	"RomanUrduTranslate":"Ham ne subah ki aur Allah ke saaray mulk ne subah ki aur sab tareef Allah hi ke liye hai Allah ke siwa koi mabood nahi woh akela hai, us ka koi shareek nahi usi ki badshahat hai aur usi ke liye sab tareef hai aur woh har cheez par kaamil qudrat rakhta hai. Ae mere Rab! mein tujh se is din114, ki behtari ka sawal karta hun aur us din ki behtari jo is ke baad anay wala hai aur mein is din115 ke shar se teri panah mein aata hun aur is ke baad anay walay din ke shar se, ae mere Rab! mein kahili [aur burhapay ki kharabi] se teri panah mein aata hun. Ae mere Rab! mein aag ke azaab se aur qabr ke azaab se teri panah mein aata hun.",
 	"KannadaText": "ಅಸ್ಬಹ್‍ನಾ ವಅಸ್ಬಹಲ್ ಮುಲ್ಕು ಲಿಲ್ಲಾಹಿ, ವಲ್‍ಹಮ್ದು ಲಿಲ್ಲಾಹಿ, ಲಾ ಇಲಾಹ ಇಲ್ಲಲ್ಲಾಹು ವಹ್ದಹೂ ಲಾ ಶರೀಕ ಲಹೂ, ಲಹುಲ್ ಮುಲ್ಕು ವಲಹುಲ್ ಹಮ್ದು ವಹುವ ಅಲಾ ಕುಲ್ಲಿ ಶೈಇನ್ ಕದೀರುನ್, ರಬ್ಬಿ ಅಸ್‍ಅಲುಕ ಖೈರ ಮಾ ಫೀ ಹಾದಲ್ ಯೌಮಿ ವಖೈರ ಮಾ ಬಅïದಹೂ, ವಅಊದು ಬಿಕ ಮಿನ್ ಶರ್ರಿ ಮಾ ಫೀ ಹಾದಲ್ ಯೌಮಿ ವಶರ್ರಿ ಮಾ ಬಅïದಹೂ, ರಬ್ಬಿ ಅಊದು ಬಿಕ ಮಿನಲ್ ಕಸಲಿ ವಸೂಇಲ್ ಕಿಬರಿ, ರಬ್ಬಿ ಅಊದು ಬಿಕ ಮಿನ್ ಅದಾಬಿನ್ ಫಿನ್ನಾರಿ ವಅದಾಬಿನ್ ಫಿಲ್ ಕಬ್ರ್ ",
 	"KannadaTranslate":"ನಾವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದೆವು ಮತ್ತು ಅಲ್ಲಾಹನ ಸಂಪೂರ್ಣ ಆಧಿಪತ್ಯವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದೆ. ಮತ್ತು ಸ್ತುತಿಯು ಅಲ್ಲಾಹನಿಗೆ. ಅಲ್ಲಾಹನಲ್ಲದೆ ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ, ಅವನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿದ್ದಾನೆ. ಆಧಿಪತ್ಯವು ಅವನದ್ದು ಮತ್ತು ಸ್ತುತಿಯು ಅವನಿಗೆ. ಅವನು ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲೂ ಸಾಮರ್ಥ್ಯವುಳ್ಳವನು. ನನ್ನ ರಬ್ಬೇ! ಈ ದಿನದಲ್ಲಿರುವ ಒಳಿತನ್ನು ಮತ್ತು ಇದರ ನಂತರದ ದಿನಗಳಲ್ಲಿರುವ ಒಳಿತನ್ನು ನಾನು ನಿನ್ನೊಂದಿಗೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ಈ ದಿನದ ಕೆಡುಕಿನಿಂದ ಮತ್ತು ಇದರ ನಂತರದ ದಿನಗಳಲ್ಲಿರುವ ಕೆಡುಕಿನಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ನನ್ನ ರಬ್ಬೇ! ಸೋಮಾರಿತನದಿಂದ ಮತ್ತು ವೃದ್ಧಾಪ್ಯ ವೈಷಮ್ಯದಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ನನ್ನ ರಬ್ಬೇ! ನರಕದಲ್ಲಿರುವ ಶಿಕ್ಷೆಯಿಂದ ಮತ್ತು ಗೋರಿಯಲ್ಲಿರುವ ಶಿಕ್ಷೆಯಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "'Asbahnaa wa 'asbahal-mulku lillaahi walhamdu lillaahi, laa 'ilaaha 'illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa 'alaa kulli shay'in Qadeer. Rabbi 'as'aluka khayra maa fee haathal-yawmi wa khayra maa ba'dahu wa a'oothu bika min sharri maa fee haathal-yawmi wa sharri maa ba'dahu, Rabbi 'a'oothu bika minal-kasali, wa soo'il-kibari, Rabbi 'a'oothu bika min 'athaabin fin-naari wa 'athaabin fil-qabri.",
+	"UrduTranslate":"ہم نے اور اللہ  کے ملک نے صبح کی اور ہر قسم کی تعریف اللہ  ہی کے لئے ہے۔ اللہ  کے علاوہ کوئی (سچا)معبود نہیں۔وہ اکیلا ہے اس کا کوئی شریک نہیں۔اسی کی ہی بادشاہت ہے اور اسی کی ہی تعریف ہے اور وہ ہرچیز پر کامل قدرت رکھتا ہے۔اے میرے رب! میں تجھ سے اس دن کی بہتری اور اس کے بعد آنے واوالے دنوں کی بہتری کا سوال کرتا ہوں اور میں تیری پناہ میں آتا ہوں اس دن کے شر سے اور اس کے بعد آنے والے دنوں کے شر سے، اے میرے رب میں کاہلی اور بڑھاپے کی خرابی سے تیری پناہ میں آتا ہوں۔اے میرے رب! میں تیری پناہ میں آتا ہوں آگ کے عذاب سے اور قبر کے عذاب سے",
 	"Timing":"morning",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/77.mp3"
@@ -96,6 +110,8 @@ export const data=
 	"RomanUrduTranslate":"",
 	"KannadaText": "ಅಮ್ಸಯ್ನಾ ವ ಅಮ್ಸಲ್ ಮುಲ್ಕು ಲಿಲ್ಲಾಹಿ, ವಲ್‍ಹಮ್ದು ಲಿಲ್ಲಾಹಿ, ಲಾ ಇಲಾಹ ಇಲ್ಲಲ್ಲಾಹು ವಹ್ದಹೂ ಲಾ ಶರೀಕ ಲಹೂ, ಲಹುಲ್ ಮುಲ್ಕು ವಲಹುಲ್ ಹಮ್ದು ವಹುವ ಅಲಾ ಕುಲ್ಲಿ ಶೈಇನ್ ಕದೀರುನ್, ರಬ್ಬಿ ಅಸ್‌ಅಲುಕ ಖೈರ ಮಾಫೀ ಹಾದಿಹಿ ಲ್ಲೆöÊಲತಿ ವ ಖೈರ ಮಾ ಬಅï‌ದಹಾ ವ ಅಊದು ಬಿಕ ಮಿನ್ ರ‍್ರಿ ಮಾಫೀ ಹಾದಿಹಿ ಲ್ಲೆöÊಲತಿ ವ ರ‍್ರಿ ಮಾ ಬಅï‌ದಹಾ , ರಬ್ಬಿ ಅಊದು ಬಿಕ ಮಿನಲ್ ಕಸಲಿ ವಸೂಇಲ್ ಕಿಬರಿ, ರಬ್ಬಿ ಅಊದು ಬಿಕ ಮಿನ್ ಅದಾಬಿನ್ ಫಿನ್ನಾರಿ ವಅದಾಬಿನ್ ಫಿಲ್ ಕಬ್ರ್ ",
 	"KannadaTranslate":"ನಾವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದೆವು ಮತ್ತು ಅಲ್ಲಾಹನ ಸಂಪೂರ್ಣ ಆಧಿಪತ್ಯವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದೆ. ಮತ್ತು ಸ್ತುತಿಯು ಅಲ್ಲಾಹನಿಗೆ. ಅಲ್ಲಾಹನಲ್ಲದೆ ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ, ಅವನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿದ್ದಾನೆ. ಆಧಿಪತ್ಯವು ಅವನದ್ದು ಮತ್ತು ಸ್ತುತಿಯು ಅವನಿಗೆ. ಅವನು ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲೂ ಸಾಮರ್ಥ್ಯವುಳ್ಳವನು. ನನ್ನ ರಬ್ಬೇ! ಈ ರಾತ್ರಿಯಲ್ಲಿರುವ ಒಳಿತನ್ನು ಮತ್ತು ಇದರ ನಂತರದ ರಾತ್ರಿಗಳಲ್ಲಿರುವ ಒಳಿತನ್ನು ನಾನು ನಿನ್ನೊಂದಿಗೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ಈ ರಾತ್ರಿಯ ಕೆಡುಕಿನಿಂದ ಮತ್ತು ಇದರ ನಂತರದ ರಾತ್ರಿಗಳಲ್ಲಿರುವ ಕೆಡುಕಿನಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ನನ್ನ ರಬ್ಬೇ! ಸೋಮಾರಿತನದಿಂದ ಮತ್ತು ವೃದ್ಧಾಪ್ಯ ವೈಷಮ್ಯದಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ನನ್ನ ರಬ್ಬೇ! ನರಕದಲ್ಲಿರುವ ಶಿಕ್ಷೆಯಿಂದ ಮತ್ತು ಗೋರಿಯಲ್ಲಿರುವ ಶಿಕ್ಷೆಯಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "Amsayna wa-amsal-mulku lillah walhamdu lillah la ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shayin qadeer, rabbi as-aluka khayra ma fee hathihil-laylah, wakhayra ma baAAdaha, wa-aAAoothu bika min sharri hathihil-laylah, washarri ma baAAdaha, rabbi aAAoothu bika minal-kasal, wasoo-il kibar, rabbi aAAoothu bika min AAathabin fin-nar, waAAathabin fil-qabr.",
+	"UrduTranslate":"ہم نے اور اللہ  کے ملک نے شام کی اور ہر قسم کی تعریف اللہ  ہی کے لئے ہے۔ اللہ  کے علاوہ کوئی (سچا)معبود نہیں۔وہ اکیلا ہے اس کا کوئی شریک نہیں۔اسی کی ہی بادشاہت ہے اور اسی کی ہی تعریف ہے اور وہ ہرچیز پر کامل قدرت رکھتا ہے۔اے میرے رب! میں تجھ سے اس رات کی بہتری اور اس کے بعد آنے واوالے دنوں کی بہتری کا سوال کرتا ہوں اور میں تیری پناہ میں آتا ہوں اس رات کے شر سے اور اس کے بعد آنے والے دنوں کے شر سے، اے میرے رب میں کاہلی اور بڑھاپے کی خرابی سے تیری پناہ میں آتا ہوں۔اے میرے رب! میں تیری پناہ میں آتا ہوں آگ کے عذاب سے اور قبر کے عذاب سے",
 	"Timing":"evening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/77.mp3"
@@ -109,6 +125,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! teri hi hifazat mein ham ne subah ki aur teri hi hifazat mein shaam ki aur tairay hi naam par ham zindah hotay hain aur tairay hi naam par ham martay hain. aur teri hi taraf lautna hai.",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಬಿಕ ಅಸ್ಬಹ್‍ನಾ ವಬಿಕ ಅಮ್ಸೈನಾ ವಬಿಕ ನಹ್ಯಾ ವಬಿಕ ನಮೂತು ವಇಲೈಕ ನ್ನುಶೂರ್ ",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನಿನ್ನಿಂದಾಗಿ ನಾವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದೆವು, ನಿನ್ನಿಂದಾಗಿ ನಾವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದೆವು, ನಿನ್ನಿಂದಾಗಿ ನಾವು ಬದುಕುತ್ತಿದ್ದೇವೆ, ನಿನ್ನಿಂದಾಗಿ ನಾವು ಮರಣವನ್ನು ಹೊಂದುತ್ತೇವೆ ಮತ್ತು ಪುನರುತ್ಥಾನವು ನಿನ್ನ ಬಳಿಗೇ ಆಗಿದೆ.",
+	"UrduText": "Allahumma bika asbahna wabika  amsayna, wabika nahya ,wabika namootu wa-ilaykan-nushoor.",
+	"UrduTranslate":"اے اللہ  تیری ہی توفیق سے ہم نے صبح کی اور تیری ہی توفیق سے شام اور تیرے ہی نام پر ہم ذندہ ہیں اور تیرے ہی نام پر ہم مریں گے اور تیری طرف ہی لوٹ کر جانا ہے۔",
 	"Timing":"morning",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/78.mp3"
@@ -122,6 +140,8 @@ export const data=
 	"RomanUrduTranslate":"Aye Allah! Ham ne tairay hi hukm se shaam ki aur tairay hi hukm se subah ki thi, tairay hi hukm se ham zindah hain aur tera jab hukm ho ga, ham mar jayen ge aur teri hi taraf lautna hai",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಬಿಕ ಅಮ್ಸಯ್ನಾ ವಬಿಕ ಅಸ್‌ಬಹ್‌ನಾ ವಬಿಕ ನಹ್ಯಾ ವಬಿಕ ನಮೂತು ವ ಇಲೈಕಲ್ ಮಸೀರ್",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನಿನ್ನಿಂದಾಗಿ ನಾವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದೆವು, ನಿನ್ನಿಂದಾಗಿ ನಾವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದೆವು, ನಿನ್ನಿಂದಾಗಿ ನಾವು ಬದುಕುತ್ತಿದ್ದೇವೆ, ನಿನ್ನಿಂದಾಗಿ ನಾವು ಮರಣವನ್ನು ಹೊಂದುತ್ತೇವೆ ಮತ್ತು ಪುನರುತ್ಥಾನವು ನಿನ್ನ ಬಳಿಗೇ ಆಗಿದೆ.",
+	"UrduText": "Allahumma bika amsayna, wabika asbahna, wabika nahya wabika namootu wa-ilaykal-maseer.",
+	"UrduTranslate":"ہم نے تیرے ہی حکم سے شام کی اور تیرے ہی حکم سے صبح کی تھی، تیرے ہی حکم سے ہم زندہ ہیں اور تیرا جب حکم ہو گا، ہم مر جائیں گے اور تیری ہی طرف ہمیں اٹھ کر جانا ہے",
 	"Timing":"evening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/78.mp3"
@@ -135,6 +155,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! Tu hi mera Rab hai tairay siwa koi mabood nahi Tu ne mujhe paida farmaya, aur mein tera bandah hun aur mein apni taaqat ke mutabiq tairay ahed aur waday par qaim hun mein tujh se us cheez ke shar se panah mangta hun jis ka mein ne irtikaab kiya, mein tairay samnay tairay inaam ka iqraar karta hun jo mujh par huwa aur mein apne gunaaho ka iqraar karta hun, lehaza Tu mujhe maaf kardey. waqea yeh hai ke tairay siwa koi gunaaho ko maaf nahi karsaktha",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಅನ್ತ ರಬ್ಬೀ ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ ಖಲಕ್ತನೀ ವಅನ ಅಬ್ದುಕ, ವಅನ ಅಲಾ ಅಹ್ದಿಕ ವವಅïದಿಕ ಮಸ್ತತಅïತು, ಅಊದು ಬಿಕ ಮಿನ್ ಶರ್ರಿ ಮಾ ಸನಅïತು, ಅಬೂಉ ಲಕ ಬಿನಿಅïಮತಿಕ ಅಲಯ್ಯ, ವಅಬೂಉ ಬಿದಮ್ಬೀ ಫಗ್‍ಫಿರ್ ಲೀ ಇನ್ನಹೂ ಲಾ ಯಗ್‍ಫಿರು ದ್ದುನೂಬ ಇಲ್ಲಾ ಅನ್ತ್",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನೀನು ನನ್ನ ರಬ್ಬ್. ನೀನಲ್ಲದೆ ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ. ನೀನು ನನ್ನನ್ನು ಸೃಷ್ಟಿಸಿರುವೆ ಮತ್ತು ನಾನು ನಿನ್ನ ದಾಸನಾಗಿರುವೆನು. ನನಗೆ ಸಾಧ್ಯವಾಗುವಷ್ಟರ ಮಟ್ಟಿಗೆ ನಾನು ನಿನ್ನ ಕರಾರು ಮತ್ತು ವಾಗ್ದಾನವನ್ನು ಪಾಲಿಸುತ್ತಿರುವೆನು. ನಾನು ಮಾಡಿದ ಕರ್ಮಗಳ ಕೆಡುಕಿನಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ನೀನು ನನ್ನ ಮೇಲೆ ಸುರಿಸಿದ ಅನುಗ್ರಹಗಳಿಗಾಗಿ ನಾನು ನಿನಗೆ ಶರಣಾಗುತ್ತಿರುವೆ. ಮತ್ತು ನನ್ನ ಪಾಪಗಳಿಂದಾಗಿ ನಾನು ನಿನಗೆ ಶರಣಾಗುತ್ತಿರುವೆ. ಆದ್ದರಿಂದ ನನಗೆ ಕ್ಷಮೆ ನೀಡು. ಖಂಡಿತವಾಗಿಯೂ ನೀನಲ್ಲದೆ ಪಾಪಗಳನ್ನು ಕ್ಷಮಿಸುವವರಿಲ್ಲ.",
+	"UrduText": "Allahumma anta rabbee la ilaha illa ant, khalaqtanee wa-ana AAabduk, wa-ana AAala AAahdika wawaAAdika mas-tataAAt, aAAoothu bika min sharri ma sanaAAt, aboo-o laka biniAAmatika AAalay, wa-aboo-o bithanbee, faghfir lee fa-innahu la yaghfiruth-thunooba illa ant.",
+	"UrduTranslate":"اے اللہ ! تو میرارب ہے،تیرے علاوہ کوئی (سچا)معبود نہیں تو نے مجھے پیدافرمایا اور میں تیرابندہ ہوں۔اور میں اپنی طاقت کے مطابق تیرے عہد اور وعدے پر قائم ہوں۔اپنے کئے کے شر سے تیری پناہ میں آتا ہوں۔میں اپنے اوپر تیرے انعام کا اقرار کرتا ہوں اور میں اپنے گناہ کا اقرار کرتاہوں لہٰذاتو مجھے معاف کردے۔سچی بات یہ ہے کہ تیرے سوا کوئی بھی گناہ معاف نہیں کرسکتا",
 	"Timing":"morningAndEvening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/79.mp3"
@@ -148,6 +170,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! yaqeenan mein ne aisi haalat mein subah ki ke tujhe, tera arsh uthany walay farishton, tairay (deegar) farishton aur teri tamam makhlooq ko is baat par gawah banata hun ke Tu hi Allah hai, tairay siwa koi mabood nahi Tu akela hai, tera koi shareek nahi aur bilaa shuba Mohammad tairay bande aur tairay Rasool hain.",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಸ್ಬಹ್ತು, ಉಶ್‍ಹಿದುಕ ವಉಶ್‍ಹಿದು ಹಮಲತ ಅರ್ಶಿಕ, ವಮಲಾಇಕತಕ, ವಜಮೀಅ ಖಲ್ಕಿಕ, ಅನ್ನಕ ಅನ್ತಲ್ಲಾಹು ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ ವಹ್ದಕ ಲಾ ಶರೀಕ ಲಕ, ವಅನ್ನ ಮುಹಮ್ಮದನ್ ಅಬ್ದುಕ ವರಸೂಲುಕ್ (ನಾಲ್ಕು ಸಲ)",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನೀನು ಅಲ್ಲಾಹನಾಗಿರುವೆ, ನಿನ್ನ ಹೊರತು ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ. ನೀನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವೆ, ಮತ್ತು ಮುಹಮ್ಮದ್ ನಿನ್ನ ದಾಸರೂ ರಸೂಲರೂ ಆಗಿರುವರು ನಿನ್ನನ್ನು ಸಾಕ್ಷಿಯಾಗಿಸುತ್ತಾ, ನಿನ್ನ ಅರ್ಶನ್ನು ಹೊರುವವರನ್ನು, ನಿನ್ನ ಮಲಕ್‍ಗಳನ್ನು ಮತ್ತು ನಿನ್ನ ಸಂಪೂರ್ಣ ಸೃಷ್ಟಿಯನ್ನು ಸಾಕ್ಷಿಯಾಗಿಸುತ್ತಾ ನಾನು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದ್ದೇನೆ.",
+	"UrduText": "Allahumma innee asbahtu oshhiduk, wa-oshhidu hamalata AAarshik, wamala-ikatak, wajameeAAa khalqik, annaka antal-lahu la ilaha illa ant, wahdaka la shareeka lak, wa-anna Muhammadan AAabduka warasooluk.",
+	"UrduTranslate":"اے اللہ ! یقیناََ میں نے ایسی حالت میں صبح کی کہ تجھے گواہ بناتا ہوں اور تیرا عرش اٹھانے والوں اور تیرے فرشتوں اور تیری تمام مخلوق کو اس اقرار پر گواہ بناتا ہوں کہ تو ہی اللہ  ہے،تیرے سوا کوئی (سچا)معبود نہیں ۔تو اکیلا ہے،تیرا کوئی شریک نہیں۔اور بلاشبہ حضرت محمدﷺ تیرے بندے اور تیرے رسول ہیں",
 	"Timing":"morning",
 	"Repeat": 4,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/80.mp3"
@@ -161,6 +185,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! yaqeenan mein ne aisi haalat mein shaam ki ke tujhe, tera arsh uthany walay farishton, tairay (deegar) farishton aur teri tamam makhlooq ko is baat par gawah banata hun ke Tu hi Allah hai, tairay siwa koi mabood nahi Tu akela hai, tera koi shareek nahi aur bilaa shuba Mohammad tairay bande aur tairay Rasool hain",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಮ್ಸಯ್ತು, ಉಶ್‍ಹಿದುಕ ವಉಶ್‍ಹಿದು ಹಮಲತ ಅರ್ಶಿಕ, ವಮಲಾಇಕತಕ, ವಜಮೀಅ ಖಲ್ಕಿಕ, ಅನ್ನಕ ಅನ್ತಲ್ಲಾಹು ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ ವಹ್ದಕ ಲಾ ಶರೀಕ ಲಕ, ವಅನ್ನ ಮುಹಮ್ಮದನ್ ಅಬ್ದುಕ ವರಸೂಲುಕ್ (ನಾಲ್ಕು ಸಲ)",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನೀನು ಅಲ್ಲಾಹನಾಗಿರುವೆ, ನಿನ್ನ ಹೊರತು ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ. ನೀನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವೆ, ಮತ್ತು ಮುಹಮ್ಮದ್( ನಿನ್ನ ದಾಸರೂ ರಸೂಲರೂ ಆಗಿರುವರು ನಿನ್ನನ್ನು ಸಾಕ್ಷಿಯಾಗಿಸುತ್ತಾ, ನಿನ್ನ ಅರ್ಶನ್ನು ಹೊರುವವರನ್ನು, ನಿನ್ನ ಮಲಕ್‍ಗಳನ್ನು ಮತ್ತು ನಿನ್ನ ಸಂಪೂರ್ಣ ಸೃಷ್ಟಿಯನ್ನು ಸಾಕ್ಷಿಯಾಗಿಸುತ್ತಾ ನಾನು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದ್ದೇನೆ.",
+	"UrduText": "Allahumma innee amsaytu oshhiduk, wa-oshhidu hamalata AAarshik, wamala-ikatak, wajameeAAa khalqik, annaka antal-lahu la ilaha illa ant, wahdaka la shareeka lak, wa-anna Muhammadan AAabduka warasooluk.",
+	"UrduTranslate":"اے اللہ ! یقیناََ میں نے ایسی حالت میں شام کی کہ تجھے گواہ بناتا ہوں اور تیرا عرش اٹھانے والوں اور تیرے فرشتوں اور تیری تمام مخلوق کو اس اقرار پر گواہ بناتا ہوں کہ تو ہی اللہ  ہے،تیرے سوا کوئی (سچا)معبود نہیں ۔تو اکیلا ہے،تیرا کوئی شریک نہیں۔اور بلاشبہ حضرت محمدﷺ تیرے بندے اور تیرے رسول ہیں",
 	"Timing":"evening",
 	"Repeat": 4,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/80.mp3"
@@ -174,6 +200,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! subah ke waqt, mujh par ya teri makhlooq mein se kisi par jo bhi inaam huwa hai, woh teri hi taraf se hai, Tu akela hai, tera koi shareek nahi, pas tairay hi liye sab tareef hai aur tairay hi liye shukr hai.",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಮಾ ಅಸ್ಬಹ ಬೀ ಮಿನ್ ನಿಅïಮತಿನ್ ಅವ್ ಬಿಅಹದಿನ್ ಮಿನ್ ಖಲ್ಕಿಕ ಫಮಿನ್ಕ ವಹ್ದಕ ಲಾ ಶರೀಕ ಲಕ, ಫಲಕಲ್ ಹಮ್ದು ವಲಕ ಶ್ಶುಕ್ರ್)",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನಾನು ಅಥವಾ ನಿನ್ನ ಸೃಷ್ಟಿಗಳಲ್ಲಿ ಸೇರಿದ ಯಾರಾದರೊಬ್ಬರು ಯಾವೆಲ್ಲ ಅನುಗ್ರಹಗಳೊಂದಿಗೆ ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದ್ದಾರೋ ಅವೆಲ್ಲವೂ ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವ ನಿನ್ನಿಂದ ಮಾತ್ರ. ಆದ್ದರಿಂದ ಸ್ತುತಿ ಮತ್ತು ಕೃತಜ್ಞತೆ ನಿನಗೆ ಮಾತ್ರ.",
+	"UrduText": "Allahumma ma asbaha bee min niAAmatin, aw bi-ahadin min khalqik, faminka wahdaka la shareeka lak, falakal-hamdu walakash-shukr.",
+	"UrduTranslate":"",
 	"Timing":"morning",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/81.mp3"
@@ -187,6 +215,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! shaam ke waqt, mujh par ya teri makhlooq mein se kisi par jo bhi inaam huwa hai, woh teri hi taraf se hai, Tu akela hai, tera koi shareek nahi, pas tairay hi liye sab tareef hai aur tairay hi liye shukr hai",
 	"Timing":"evening",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಮಾ ಅಮ್ಸಾ ಬೀ ಮಿನ್ ನಿಅïಮತಿನ್ ಅವ್ ಬಿಅಹದಿನ್ ಮಿನ್ ಖಲ್ಕಿಕ ಫಮಿನ್ಕ ವಹ್ದಕ ಲಾ ಶರೀಕ ಲಕ, ಫಲಕಲ್ ಹಮ್ದು ವಲಕ ಶ್ಶುಕ್ರ್",
+	"UrduText": ".Allahumma ma amsa bee min niAAmatin, aw bi-ahadin min khalqik, faminka wahdaka la shareeka lak, falakal-hamdu walakash-shukr.",
+	"UrduTranslate":"اے اللہ ! شام کے وقت مجھ پر یا تیری مخلوق میں سے کسی پر جو بھی انعام ہوا ہے تو وہ تیری ہی طرف سے ہے۔تو اکیلا ہے ،تیرا کوئی شریک نہیں۔لہٰذاتیرے لئے ہی حمد ہے اور تیرے لئے ہی شکر۔",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನಾನು ಅಥವಾ ನಿನ್ನ ಸೃಷ್ಟಿಗಳಲ್ಲಿ ಸೇರಿದ ಯಾರಾದರೊಬ್ಬರು ಯಾವೆಲ್ಲ ಅನುಗ್ರಹಗಳೊಂದಿಗೆ ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದ್ದಾರೋ ಅವೆಲ್ಲವೂ ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವ ನಿನ್ನಿಂದ ಮಾತ್ರ. ಆದ್ದರಿಂದ ಸ್ತುತಿ ಮತ್ತು ಕೃತಜ್ಞತೆ ನಿನಗೆ ಮಾತ್ರ.",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/81.mp3"
@@ -200,6 +230,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! mujhe mere badan mein aafiat day, ae Allah! mujhe mere kaanon mein aafiat day, ae Allah! mujhe meri aankhon mein aafiat day, tairay siwa koi mabood nahi. Ae Allah! yaqeenan mein kufr aur gurbat se teri pannah mein aata hun aur [ae Allah! Yaqeenan] mein azaab e qabr se teri panah mein aata hun, tairay siwa koi mabood nahi.",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಆಫಿನೀ ಫೀ ಬದನೀ, ಅಲ್ಲಾಹುಮ್ಮ ಆಫಿನೀ ಫೀ ಸಮ್‍ಈ, ಅಲ್ಲಾಹುಮ್ಮ ಆಫಿನೀ ಫೀ ಬಸರೀ, ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ್, ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಊದು ಬಿಕ ಮಿನಲ್ ಕುಫ್ರಿ ವಲ್ ಫಕ್ರಿ, ವಅಊದು ಬಿಕ ಮಿನ ಅದಾಬಿಲ್ ಕಬ್ರಿ, ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ್ (ಮೂರು ಸಲ)",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನನ್ನ ದೇಹದಲ್ಲಿ ನನಗೆ ಸೌಖ್ಯವನ್ನು ನೀಡು, ಓ ಅಲ್ಲಾಹ್! ನನ್ನ ಶ್ರವಣದಲ್ಲಿ ನನಗೆ ಸೌಖ್ಯವನ್ನು ನೀಡು, ಓ ಅಲ್ಲಾಹ್! ನನ್ನ ದೃಷ್ಟಿಯಲ್ಲಿ ನನಗೆ ಸೌಖ್ಯವನ್ನು ನೀಡು, ನೀನಲ್ಲದೆ ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ. ಓ ಅಲ್ಲಾಹ್! ಸತ್ಯನಿμÉೀಧದಿಂದ ಮತ್ತು ದಾರಿದ್ರ್ಯದಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ಮತ್ತು ಗೋರಿ ಶಿಕ್ಷೆಯಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ನೀನಲ್ಲದೆ ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ.",
+	"UrduText": "Allahumma AAafinee fee badanee, allahumma AAafinee fee samAAee, allahumma AAafinee fee basaree, la ilaha illa ant.Allahumma innee aAAoothu bika minal-kufr, walfaqr, wa-aAAoothu bika min AAathabil-qabr, la ilaha illa ant .",
+	"UrduTranslate":"اے اللہ ! مجھے عافیت دے میرے بدن میں۔اے اللہ ! مجھے عافیت دے میرے کانوں میں۔اے اللہ  مجھے عافیت دے میری آنکھوں میں۔تیرے علاوہ کوئی (سچا)معبود نہیں۔اے اللہ !یقیناََمیں تیری پناہ میں آتا ہوں عذابِ قبر سے۔تیرے علاوہ کوئی (سچا)معبود نہیں۔",
 	"Timing":"morningAndEvening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/82.mp3"
@@ -213,6 +245,8 @@ export const data=
 	"RomanUrduTranslate":"Mujhe Allah hi kaafi hai uskay siwa koi mabood nahi. usi par main ne bharosa kiya aur woh arsh azeem ka Rab hai.",
 	"KannadaText": "ಹಸ್ಬಿಯಲ್ಲಾಹು ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಹುವ ಅಲೈಹಿ ತವಕ್ಕಲ್ತು ವಹುವ ರಬ್ಬುಲ್ ಅರ್ಶಿಲ್ ಅಝೀಮ್ (ಏಳು ಸಲ)",
 	"KannadaTranslate":"ನನಗೆ ಅಲ್ಲಾಹು ಸಾಕು. ಅವನ ಹೊರತು ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ. ಅವನು ಮಹಾ ಸಿಂಹಾಸನದ ಒಡೆಯ.",
+	"UrduText": "Hasbiyal-lahu la ilaha illa huwa, AAalayhi tawakkalt, wahuwa rabbul-AAarshil-AAatheem",
+	"UrduTranslate":"مجھے اللہ  ہی کافی ہے۔ اس کے علاوہ کوئی (سچا)معبود نہیں۔اسی پر میں نے توکل کیا اور وہ عرشِ عظیم کا رب ہے",
 	"Timing":"morningAndEvening",
 	"Repeat": 7,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/83.mp3"
@@ -226,6 +260,8 @@ export const data=
 	"RomanUrduTranslate":"[Ae Allah! be shak mein tujh se] duniya aur akhirat mein mafi aur aafiat ka sawal karta hun, ae Allah! be shak mein tujh se apne deen, apni duniya aur apne ahl o maal mein mafi aur aafiat ka sawal karta hun, Ae Allah! mere aibon par parda daal day aur meri ghabrahaton mein aman day. Ae Allah! Tu meri hifazat farma mere samnay se, mere peechay se mere dayen taraf se mere bayen taraf se aur mere oopar se. aur main teri azmat ke sath is baat se panah mangta hun ke nagahan apne neechay se halaak kiya jaaun",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಸ್‍ಅಲುಕಲ್ ಅಫ್ವ ವಲ್ ಆಫಿಯತ ಫಿದ್ದುನ್ಯಾ ವಲ್ ಆಖಿರತಿ, ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಸ್‍ಅಲುಕಲ್ ಅಫ್ವ ವಲ್ ಆಫಿಯತ ಫೀ ದೀನೀ ವದುನ್ಯಾಯ ವಅಹ್ಲೀ ವಮಾಲೀ, ಅಲ್ಲಾಹುಮ್ಮಸ್ತುರ್ ಔರಾತೀ ವಆಮಿನ್ ರೌಆತೀ, ಅಲ್ಲಾಹುಮ್ಮಹ್ಫದ್‍ನೀ ಮಿನ್ ಬೈನಿ ಯದಯ್ಯ ವಮಿನ್ ಖಲ್ಫೀ ವಅನ್ ಯಮೀನೀ ವಅನ್ ಶಿಮಾಲೀ ವಮಿನ್ ಫೌಕೀ, ವಅಊದು ಬಿಅದಮತಿಕ ಅನ್ ಉಗ್ತಾಲ ಮಿನ್ ತಹ್ತೀ ",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ಇಹಲೋಕದಲ್ಲೂ ಪರಲೋಕದಲ್ಲೂ ನನಗೆ ಕ್ಷಮೆ ಮತ್ತು ಸೌಖ್ಯ ನೀಡಬೇಕೆಂದು ನಾನು ನಿನ್ನೊಂದಿಗೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ಓ ಅಲ್ಲಾಹ್! ನನ್ನ ಧರ್ಮದಲ್ಲಿ, ನನ್ನ ಐಹಿಕ ಜೀವನದಲ್ಲಿ, ನನ್ನ ಕುಟುಂಬದಲ್ಲಿ, ನನ್ನ ಸಂಪತ್ತಿನಲ್ಲಿ ನನಗೆ ಕ್ಷಮೆ ಮತ್ತು ಸೌಖ್ಯ ನೀಡಬೇಕೆಂದು ನಾನು ನಿನ್ನೊಂದಿಗೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ಓ ಅಲ್ಲಾಹ್! ನನ್ನ ಕೊರತೆಗಳನ್ನು ಮರೆಮಾಚು, ನನ್ನ ಭಯವನ್ನು ನೀಗಿಸು. ಓ ಅಲ್ಲಾಹ್! ನನ್ನ ಮುಂದಿನಿಂದಲೂ, ನನ್ನ ಹಿಂದಿನಿಂದಲೂ, ನನ್ನ ಬಲಭಾಗದಿಂದಲೂ, ನನ್ನ ಎಡಭಾಗದಿಂದಲೂ, ನನ್ನ ಮೇಲ್ಭಾಗದಿಂದಲೂ ನನ್ನನ್ನು ಸಂರಕ್ಷಿಸು ಮತ್ತು ಕೆಳಭಾಗದಿಂದ ನನ್ನನ್ನು ವಂಚಿಸಲ್ಪಡುವುದರ ಬಗ್ಗೆ ನಿನ್ನ ಔನ್ನತ್ಯದೊಂದಿಗೆ ನಾನು ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "Allahumma innee as-alukal-AAafwa walAAafiyah, fid-dunya wal-akhirah, allahumma innee as-alukal-AAafwa walAAafiyah fee deenee, wadunyaya wa-ahlee, wamalee, allahummas-tur AAawratee, wa-amin rawAAatee, allahummah-fathnee min bayni yaday, wamin khalfee, waAAan yameenee, waAAan shimalee, wamin fawqee, wa-aAAoothu biAAathamatika an oghtala min tahtee.",
+	"UrduTranslate":"اے اللہ ! بیشک میں آپ سے دنیا و آخرت میں معافی اور عافیت کی درخواست کرتا ہوں۔ اے اللہ !بیشک میں آپ سے معافی اور عافیت کی درخواست کرتا ہوں اپنے دین اور دنیا اور اپنے اہل و مال میں۔ اے اللہ ! میری پردے والی باتوں پر پردہ ڈال اور میرے خوف وہراس کو (امن میں)بدل دے۔ اے اللہ !تو میری حفاظت فرما میرے سامنے سے، میرے پیچھے سے ، میری دائیں طرف سے اور میری بائیں طرف سے اور میرے اوپر سے ۔ اور میں تیری عظمت کی پناہ چاہتاہوں اِس بات سے کہ ناگہاں اپنے نیچے سے ہلاک کیاجاؤں",
 	"Timing":"morningAndEvening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/84.mp3"
@@ -239,6 +275,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! ae asmano aur zameen ke paida karne walay! ae gayab o haazir ko jannay walay, tairay ilawa koi mabood nahi, har cheez ke Rab aur us ke maalik, mein teri panah mein aata hun apne nafs ke shar se aur shaytan ke shar se aur is ke shirk se aur is baat se ke apne hi khilaaf kisi buraiee ka irtikaab karoon ya usay kisi musalman ki taraf khench laaun",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಆಲಿಮಲ್ ಗೈಬಿ ವಶ್ಶಹಾದತಿ, ಫಾತಿರ ಸ್ಸಮಾವಾತಿ ವಲ್ ಅರ್ದಿ, ರಬ್ಬ ಕುಲ್ಲಿ ಶೈಇನ್ ವಮಲೀಕಹೂ, ಅಶ್‍ಹದು ಅನ್ ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ, ಅಊದು ಬಿಕ ಮಿನ್ ಶರ್ರಿ ನಫ್ಸೀ ವಶರ್ರಿ ಶ್ಶೈತಾನಿ ವಶಿರ್ಕಿಹ್, ವಅನ್ ಅಕ್‍ತರಿಫ ಅಲಾ ನಫ್ಸೀ ಸೂಅನ್, ಅವ್ ಅಜುರ್ರಹು ಇಲಾ ಮುಸ್ಲಿಮ್",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ದೃಶ್ಯ ಮತ್ತು ಅದೃಶ್ಯಗಳನ್ನು ಅರಿತವನೇ! ಆಕಾಶಗಳ ಮತ್ತು ಭೂಮಿಯ ಸೃಷ್ಟಿಕರ್ತನೇ! ಸರ್ವ ವಸ್ತುಗಳ ರಬ್ಬ್ ಮತ್ತು ಅಧಿಪತಿಯೇ! ನೀನಲ್ಲದೆ ಅನ್ಯ ಸತ್ಯ ಆರಾಧ್ಯರಿಲ್ಲ. ನನ್ನ ದೇಹದ ಕೆಡುಕಿನಿಂದ, ಶೈತಾನನ ಕೆಡುಕಿನಿಂದ ಮತ್ತು ಅವನ ಸಹಭಾಗಿತ್ವದಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ. ಮತ್ತು ನಾನು ನನ್ನ ಶರೀರದ ಮೇಲೆ ಅನ್ಯಾಯವೆಸಗುವುದರಿಂದ ಮತ್ತು ಅದನ್ನು ಮುಸ್ಲಿಮನಿಗೆ ಮಾಡುವುದರಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "Allahumma AAalimal-ghaybi washshahadah, fatiras-samawati wal-ard, rabba kulli shayin wamaleekah, ashhadu an la ilaha illa ant, aAAoothu bika min sharri nafsee wamin sharrish-shaytani washirkih, waan aqtarifa AAala nafsee soo-an aw ajurrahu ila muslim.",
+	"UrduTranslate":"اے اللہ ! غیب اور حاضر کے جاننے والے ! آسمانوں اور زمین کے پیدا کرنے والے، ہر چیز کے رب اور مالک ! میں گواہی دیتا ہوں کہ تیرے سوا کوئ معبود نہیں۔ میں تیری پناہ میں آتا ہوں اپنے نفس کے شر سے ، شیطان کے شر سے ، اس کی شرک سے اور اس بات سے کہ اپنے ہی خلاف کسی برائی کا ارتکاب کروں یا اسے کسی مسلمان کی طرف کھینچ لاؤں۔",
 	"Timing":"morningAndEvening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/85.mp3"
@@ -252,6 +290,8 @@ export const data=
 	"RomanUrduTranslate":"Allah ke naam ke sath jis ke naam ki barkat se koi cheez nuqsaan nahi pohncha sakti, zameen ki ho ya asmano ki aur woh khoob sunney wala, khoob jan-ne wala hai",
 	"KannadaText": "ಬಿಸ್ಮಿಲ್ಲಾಹಿಲ್ಲದೀ ಲಾ ಯದುರ್ರು ಮಅಸ್ಮಿಹೀ ಶೈಉನ್ ಫಿಲ್ ಅರ್ದಿ ವಲಾ ಫಿ ಸ್ಸಮಾಇ ವಹುವ ಸ್ಸಮೀಉಲ್ ಅಲೀಮ್ (ಮೂರು ಸಲ)",
 	"KannadaTranslate":"ಭೂಮಿಯಲ್ಲಿ ಮತ್ತು ಆಕಾಶದಲ್ಲಿ ಯಾರ ನಾಮದಿಂದ ಯಾವುದೇ ವಸ್ತುವೂ ತೊಂದರೆಯನ್ನುಂಟು ಮಾಡಲಾರದೋ, ಆ ಅಲ್ಲಾಹನ ನಾಮದಿಂದ. ಅವನು ಎಲ್ಲವನ್ನೂ ಆಲಿಸುವವನೂ ಅರಿವುಳ್ಳವನೂ ಆಗಿದ್ದಾನೆ.",
+	"UrduText": "Bismil-lahil-lathee la yadurru maAAas-mihi shay-on fil-ardi wala fis-sama-i wahuwas-sameeAAul-AAaleem.",
+	"UrduTranslate":"اس اللہ  کے نام کے ساتھ جس کے نام کے ہوتے ہوئے کوئی چیز نقصان نہیں پہنچا سکتی، ذمین کی ہو یا آسمانوں کی ۔ وہ خوب سننے والا، خوب جاننے والا ہے",
 	"Timing":"morningAndEvening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/86.mp3"
@@ -265,6 +305,8 @@ export const data=
 	"RomanUrduTranslate":"Mein Allah ke sath (us ke) Rab honay par raazi ho gaya, Islam ke sath (us ke) deen honay par aur Mohammad ke sath (un ke) Nabi honay par.",
 	"KannadaText": "ರದೀತು ಬಿಲ್ಲಾಹಿ ರಬ್ಬನ್, ವಬಿಲ್ ಇಸ್ಲಾಮಿ ದೀನನ್, ವಬಿಮುಹಮ್ಮದಿನ್ ರಸೂಲÁ (ಮೂರು ಸಲ)",
 	"KannadaTranslate":"ರಬ್ಬ್ ಆಗಿ ಅಲ್ಲಾಹನನ್ನು, ಧರ್ಮವಾಗಿ ಇಸ್ಲಾಮನ್ನು ಮತ್ತು ರಸೂಲರಾಗಿ ಮುಹಮ್ಮದ್‍ರನ್ನು ನಾನು ತೃಪ್ತಿಪಟ್ಟಿದ್ದೇನೆ.",
+	"UrduText": "Radeetu billahi rabban wabil-islami deenan wabiMuhammadin  nabiyya. ",
+	"UrduTranslate":"میں راضی ہوا اللہ  کے رب ہونے پر، اسلام کے دین ہونے پر اور محمد ﷺ کے نبی ہونے پر",
 	"Timing":"morningAndEvening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/87.mp3"
@@ -278,6 +320,8 @@ export const data=
 	"RomanUrduTranslate":"Ae zindah javed! ae qaim o daaim! mein teri hi rehmat ke zariye se madad talab karta hun, Tu mera kaam sanwaar day aur aankh jhapkane ke barabar bhi mujhe mere nafs ke supurd na karna",
 	"KannadaText": "ಯಾ ಹಯ್ಯು ಯಾ ಕಯ್ಯೂಮು ಬಿರಹ್ಮತಿಕ ಅಸ್ತಗೀಸು ಅಸ್ಲಿಹ್ ಲೀ ಶಅïನೀ ಕುಲ್ಲಹೂ ವಲಾ ತಕಿಲ್‍ನೀ ಇಲಾ ನಫ್ಸೀ ತರ್‍ಫತ ಐನ್",
 	"KannadaTranslate":"ಓ ನಿರಂತರವಾಗಿ ಬದುಕಿರುವವನೇ! ಓ ಸರ್ವವನ್ನೂ ನಿಯಂತ್ರಿಸುವವನೇ! ನಿನ್ನ ದಯೆಯೊಂದಿಗೆ ನಾನು ಸಹಾಯ ಬೇಡುತ್ತಿದ್ದೇನೆ, ನನ್ನ ಎಲ್ಲಾ ವಿಷಯಗಳನ್ನೂ ನನಗೆ ಉತ್ತಮವಾಗಿಸಿ ಕೊಡು, ನನ್ನನ್ನು ಸ್ವತಃ ನನ್ನ ಮೇಲೆ ಒಂದು ಕ್ಷಣ ಕೂಡ ಅವಲಂಬಿಸುವಂತೆ ಮಾಡದಿರು.",
+	"UrduText": "Ya hayyu ya qayyoom, birahmatika astagheeth, aslih lee sha/nee kullah, wala takilnee ila nafsee tarfata AAayn.",
+	"UrduTranslate":"اے ذندہ جاوید! اے قائم ودائم میں تیری ہی رحمت کے ذریعے فریاد کرتا ہوں تو میرا ہر کام سنوار دے، اور مجھے آنکھ جھپکنے کے برابر بھی میرے اپنے سپرد نہ کر",
 	"Timing":"morningAndEvening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/88.mp3"
@@ -291,6 +335,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! be shak mein tujh se nafa dainay walay ilm ka sawal karta hun aur pakeeza rizq ka aur aisay amal ka jo qubool kar liya jaye.",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನಾನು ನಿನ್ನೊಂದಿಗೆ ಪ್ರಯೋಜನಕರ ಜ್ಞಾನವನ್ನು, ಉತ್ತಮವಾದ ಅನ್ನಾಧಾರವನ್ನು ಮತ್ತು ಸ್ವೀಕೃತವಾದ ಕರ್ಮಗಳನ್ನು ಬೇಡುತ್ತಿದ್ದೇನೆ.",
 	"EnglishTranslate": "O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.",
+	"UrduText": "Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.",
+	"UrduTranslate":"اے اللہ ! بےشک میں آپ سے مانگتاہوں نفع دینے والا علم،پاکیزہ رزق اور قبولیت والا عمل",
 	"Timing":"morning",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/95.mp3"
@@ -304,6 +350,8 @@ export const data=
 	"RomanUrduTranslate":"",
 	"KannadaTranslate":"ಅಲ್ಲಾಹನ ಪರಿಪಾವನೆತೆಯನ್ನು ಅವನ ತೃಪ್ತಿಯೊಂದಿಗೆ ಕೊಂಡಾಡುತ್ತೇನೆ, ಅವನ ಸೃಷ್ಟಿಗಳ ಸಂಖ್ಯೆಯಷ್ಟು, ಅವನ ಮನಸ್ಸಿನ ತೃಪ್ತಿಯಷ್ಟು, ಅವನ ಸಿಂಹಾಸನದ ತೂಕದಷ್ಟು ಮತ್ತು ಅವನ ವಚನಗಳ ಸಂಖ್ಯೆಯಷ್ಟು.",
 	"EnglishTranslate": "How perfect Allah is and I praise Him by the number of His creation and His pleasure, and by the weight of His throne, and the ink of His words.",
+	"UrduText": "Subhanal-lahi wabihamdih, AAadada khalqihi warida nafsih, wazinata AAarshih, wamidada kalimatih.",
+	"UrduTranslate":"اللہ  تعالیٰ اپنی تعریف سمیت پاک ہے اپنی مخلوق کی تعداد کے برابر،اپنی ذات کی رضا کے برابر،اپنے عرش کے وزن اور اپنے کلمات کی روشنائی کے برابر",
 	"Timing":"morning",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/94.mp3"
@@ -317,7 +365,9 @@ export const data=
 	"RomanUrduTranslate":"Ham ne subah ki, aur Allah Rab alameen ke saaray mulk ne subah ki. ae Allah! mein tujh se is din132 ki behtari mangta hun aur is ki fatah o nusrat is ka noor is ki barkat aur is ki hidaayat aur mein is din ke shar aur is ke baad ke shar se teri panah chahta hun.",
 	"KannadaText": "ಅಸ್ಬಹ್‍ನಾ ವಅಸ್ಬಹಲ್ ಮುಲ್ಕು ಲಿಲ್ಲಾಹಿ ರಬ್ಬಿಲ್ ಆಲಮೀನ್. ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಸ್‍ಅಲುಕ ಖೈರ ಹಾದಲ್ ಯೌಮಿ ಫತ್‍ಹಹೂ ವನಸ್ರಹೂ ವನೂರಹೂ ವಬರಕತಹೂ ವಹುದಾಹು, ವಅಊದು ಬಿಕ ಮಿನ್ ಶರ್ರಿ ಮಾ ಫೀಹಿ ವಶರ್ರಿ ಮಾ ಬಅïದಹ್)",
 	"KannadaTranslate":"ನಾವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದೆವು ಮತ್ತು ಸರ್ವಲೋಕಗಳ ಒಡೆಯನಾದ ಅಲ್ಲಾಹನ ಸಂಪೂರ್ಣ ಆಧಿಪತ್ಯವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿತು. ಓ ಅಲ್ಲಾಹು ನಾನು ಈ ದಿನದ ಒಳಿತನ್ನು, ಜಯವನ್ನು, ಸಹಾಯವನ್ನು, ಬೆಳಕನ್ನು, ಸಮೃದ್ಧಿಯನ್ನು ಮತ್ತು ಮಾರ್ಗದರ್ಶನವನ್ನು ಬೇಡುತ್ತಿದ್ದೇನೆ. ಈ ದಿನದಲ್ಲಿರುವ ಕೆಡುಕಿನಿಂದ ಮತ್ತು ಇದರ ನಂತರದ ದಿನಗಳಲ್ಲಿರುವ ಕೆಡುಕಿನಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
-	"Timing":"morningAndEvening",
+	"UrduText": "Asbahna wa-asbahal-mulku lillahi rabbil-AAalameen, allahumma innee as-aluka khayra hathal-yawm, fat-hahu, wanasrahu, wanoorahu, wabarakatahu, wahudahu, wa-aAAoothu bika min sharri ma feehi, washarri ma baAAdah.",
+	"UrduTranslate":"ہم نے اور اللہ  ربِ کائنات کے ملک نے صبح کی۔ اے اللہ !میں آپ سے مانگتا ہوں اس دن کی بہتری،اس کی فتح ونصرت، اس کا نور اور اس کی برکت اور ہدایت۔ اور میں آپ کی پناہ چاہتا ہوں اس دن کے شر سے اور اس کے بعد والے دنوں کے شر سے",
+	"Timing":"morning",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/89.mp3"
 	},
@@ -330,7 +380,9 @@ export const data=
 	"RomanUrduTranslate":"Ham ne shaam ki, aur Allah Rab alameen ke saaray mulk ne shaam ki. ae Allah! mein tujh se is raat ki behtari mangta hun aur is ki fatah o nusrat is ka noor is ki barkat aur is ki hidaayat aur mein is raat ke shar aur is ke baad ke shar se teri panah chahta hun",
 	"KannadaText": "ಅಮ್ಸಯ್ನಾ ವ ಅಮ್ಸಲ್ಮುಲ್ಕು ಲಿಲ್ಲಾಹಿ ರಬ್ಬಿಲ್ ಆಲಮೀನ್. ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಸ್‍ಅಲುಕ ಖೈರ ಹಾದಿಹಿ ಲ್ಲೆöÊಲತಿ ಫತ್‍ಹಹಾ ವನಸ್ರಹಾ ವನೂರಹಾ ವಬರಕತಹಾ ವಹುದಾಹಾ, ವಅಊದು ಬಿಕ ಮಿನ್ ಶರ್ರಿ ಮಾ ಫೀಹಾ ವಶರ್ರಿ ಮಾ ಬಅïದಹಾ)",
 	"KannadaTranslate":"ನಾವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದೆವು ಮತ್ತು ಸರ್ವಲೋಕಗಳ ಒಡೆಯನಾದ ಅಲ್ಲಾಹನ ಸಂಪೂರ್ಣ ಆಧಿಪತ್ಯವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿತು. ಓ ಅಲ್ಲಾಹು ನಾನು ಈ ರಾತ್ರಿಯ ಒಳಿತನ್ನು, ಜಯವನ್ನು, ಸಹಾಯವನ್ನು, ಬೆಳಕನ್ನು, ಸಮೃದ್ಧಿಯನ್ನು ಮತ್ತು ಮಾರ್ಗದರ್ಶನವನ್ನು ಬೇಡುತ್ತಿದ್ದೇನೆ. ಈ ದಿನದಲ್ಲಿರುವ ಕೆಡುಕಿನಿಂದ ಮತ್ತು ಇದರ ನಂತರದ ದಿನಗಳಲ್ಲಿರುವ ಕೆಡುಕಿನಿಂದ ನಾನು ನಿನ್ನೊಂದಿಗೆ ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
-	"Timing":"morningAndEvening",
+	"UrduText": "Amsayna wa-amsal-mulku lillahi rabbil-AAalameen, allahumma innee as-aluka khayra hathihil-laylah, fat-haha, wanasraha, wanooraha, wabarakataha, wahudaha, wa-aAAoothu bika min sharri ma feeha washarri ma baAAdaha.",
+	"UrduTranslate":"ہم نے اور اللہ  ربِ کائنات کے ملک نے شام کی۔ اے اللہ !میں آپ سے مانگتا ہوں اس رات کی بہتری،اس کی فتح ونصرت، اس کا نور اور اس کی برکت اور ہدایت۔ اور میں آپ کی پناہ چاہتا ہوں اس رات کے شر سے اور اس کے بعد والے دنوں کے شر سے",
+	"Timing":"evening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/89.mp3"
 	},
@@ -340,22 +392,26 @@ export const data=
 	"EnglishText": "Asbahna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.",
 	"EnglishTranslate": "We rise upon the fitrah of Islam, and the word of pure faith, and upon the religion of our Prophet Muhammad  and the religion of our forefather Ibraheem, who was a Muslim and of true faith and was not of those who associate others with Allah.",
 	"RomanUrduText": "Asbahna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.",
-	"RomanUrduTranslate":"Ham ne fitrat e Islam, kalima e ikhlaas, aur apne Nabi hazrat Mohammad                                                                                                       ke deen aur apne baap hazrat Ibrahim   jo yak rukh (aur) farmaan bardaar thay, ki millat par subah ki aur woh mushrikon mein nahi thay",
+	"RomanUrduTranslate":"Ham ne fitrat e Islam, kalima e ikhlaas, aur apne Nabi hazrat Mohammad ke deen aur apne baap hazrat Ibrahim   jo yak rukh (aur) farmaan bardaar thay, ki millat par subah ki aur woh mushrikon mein nahi thay",
 	"KannadaText": "ಅಸ್ಬಹ್‍ನಾ ಅಲಾ ಫಿತ್ರತಿಲ್ ಇಸ್ಲಾಮಿ, ವಕಲಿಮತಿಲ್ ಇಖ್ಲಾಸಿ, ವದೀನಿ ನಬಿಯ್ಯಿನಾ ಮುಹಮ್ಮದಿನ್ ಸಲ್ಲಲ್ಲಾಹು ಅಲೈಹಿ ವಸಲ್ಲಮ, ವಮಿಲ್ಲತಿ ಅಬೀನಾ ಇಬ್ರಾಹೀಮ ಹನೀಫನ್ ವಮಾ ಕಾನ ಮಿನಲ್ ಮುಶ್ರಿಕೀನ್ ",
 	"KannadaTranslate":"ಇಸ್ಲಾಮಿನ ಪ್ರಕೃತಿಯಲ್ಲಿ, ನಿಷ್ಕಳಂಕವಾದ ವಚನದೊಂದಿಗೆ, ನಮ್ಮ ಪ್ರವಾದಿಯಾದ ಮುಹಮ್ಮದ್‍ರವರ ಧರ್ಮದಲ್ಲಿ ಮತ್ತು ಋಜುಮನಸ್ಕರೂ ಬಹುದೇವವಿಶ್ವಾಸಿಗಳಲ್ಲಿ ಒಳಪಡದವರೂ ಆಗಿರುವ ಇಬ್ರಾಹೀಮ್‍ರವರ ಮಾರ್ಗದಲ್ಲಿ ನಾವು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದೆವು.",
+	"UrduText": "Asbahna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.",
+	"UrduTranslate":"ہم نے صبح کی فطرتِ اسلام پر کملۂ اخلاص پر،اپنے نبی حضرت محمد ﷺ کے دین پر اور اپنے باپ حضرت ابرہیم علیہ السلام کی ملت پر جو یک رخ (اور)فرمانبردار تھے اور وہ ہرگز مشرکوں میں سے نہیں تھے",
 	"Timing":"morning",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/90.mp3"
 },
 	{
 	"Id": 1,
-	"ArabicText": "أَصْبَحْنا عَلَى فِطْرَةِ الْإِسْلاَمِ، وَعَلَى كَلِمَةِ الْإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صلى الله عليه وسلم، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ، حَنِيفاً مُسْلِماً وَمَا كَانَ مِنَ الْمُشرِكِينَ",
+	"ArabicText": "أَمْسَيْنا عَلَى فِطْرَةِ الْإِسْلاَمِ، وَعَلَى كَلِمَةِ الْإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صلى الله عليه وسلم، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ، حَنِيفاً مُسْلِماً وَمَا كَانَ مِنَ الْمُشرِكِينَ",
 	"EnglishText": "amsayna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.",
 	"EnglishTranslate": "We rise upon the fitrah of Islam, and the word of pure faith, and upon the religion of our Prophet Muhammad  and the religion of our forefather Ibraheem, who was a Muslim and of true faith and was not of those who associate others with Allah.",
 	"RomanUrduText": "amsayna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.",
 	"RomanUrduTranslate":"",
 	"KannadaText": "ಅಮ್ಸಯ್ನಾ ಅಲಾ ಫಿತ್ರತಿಲ್ ಇಸ್ಲಾಮಿ, ವಕಲಿಮತಿಲ್ ಇಖ್ಲಾಸಿ, ವದೀನಿ ನಬಿಯ್ಯಿನಾ ಮುಹಮ್ಮದಿನ್ ಸಲ್ಲಲ್ಲಾಹು ಅಲೈಹಿ ವಸಲ್ಲಮ, ವಮಿಲ್ಲತಿ ಅಬೀನಾ ಇಬ್ರಾಹೀಮ ಹನೀಫನ್ ವಮಾ ಕಾನ ಮಿನಲ್ ಮುಶ್ರಿಕೀನ್ ",
 	"KannadaTranslate":"ಇಸ್ಲಾಮಿನ ಪ್ರಕೃತಿಯಲ್ಲಿ, ನಿಷ್ಕಳಂಕವಾದ ವಚನದೊಂದಿಗೆ, ನಮ್ಮ ಪ್ರವಾದಿಯಾದ ಮುಹಮ್ಮದ್‍ರವರ ಧರ್ಮದಲ್ಲಿ ಮತ್ತು ಋಜುಮನಸ್ಕರೂ ಬಹುದೇವವಿಶ್ವಾಸಿಗಳಲ್ಲಿ ಒಳಪಡದವರೂ ಆಗಿರುವ ಇಬ್ರಾಹೀಮ್‍ರವರ ಮಾರ್ಗದಲ್ಲಿ ನಾವು ಸಂಜೆಯನ್ನು ಪ್ರವೇಶಿಸಿದೆವು.",
+	"UrduText": "amsayna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.",
+	"UrduTranslate":"ہم نے شام کی فطرتِ اسلام پر کملۂ اخلاص پر،اپنے نبی حضرت محمد ﷺ کے دین پر اور اپنے باپ حضرت ابرہیم علیہ السلام کی ملت پر جو یک رخ (اور)فرمانبردار تھے اور وہ ہرگز مشرکوں میں سے نہیں تھے",
 	"Timing":"evening",
 	"Repeat": 1,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/90.mp3"
@@ -369,6 +425,8 @@ export const data=
 	"RomanUrduTranslate":"Mein Allah ki pakizgee bayan karta hun us ki tareef ke sath",
 	"KannadaText": "ಸುಬ್‍ಹಾನಲ್ಲಾಹಿ ವಬಿಹಮ್ದಿಹ್ (ನೂರು ಬಾರಿ)",
 	"KannadaTranslate":"ಅಲ್ಲಾಹನ ಪರಿಪಾವನತೆಯನ್ನು ಕೊಂಡಾಡುತ್ತೇನೆ ಮತ್ತು ಅವನ ಸ್ತುತಿಯೊಂದಿಗೆ.",
+	"UrduText": "Subhanal-lahi wabihamdih",
+	"UrduTranslate":"میں اللہ  کی تعریف کے ساتھ ساتھ اس کی پاکیزگی بیان کرتاہوں",
 	"Timing":"morningAndEvening",
 	"Repeat": 100,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/91.mp3"
@@ -382,6 +440,8 @@ export const data=
 	"RomanUrduTranslate":"Allah ke ilawa koi mabood nahi woh akela hai, us ka koi shareek nahi, usi ki badshahat hai aur usi ki tareef hai aur woh har cheez par kaamil qudrat rakhtahai",
 	"KannadaText": "ಲಾ ಇಲಾಹ ಇಲ್ಲಲ್ಲಾಹು ವಹ್ದಹೂ ಲಾ ಶರೀಕ ಲಹೂ, ಲಹುಲ್ ಮುಲ್ಕು ವಲಹುಲ್ ಹಮ್ದು, ವಹುವ ಅಲಾ ಕುಲ್ಲಿ ಶೈಇನ್ ಕದೀರ್ (ಬೆಳಿಗ್ಗೆ ನೂರು ಸಲ)",
 	"KannadaTranslate":"ಅಲ್ಲಾಹನ ಹೊರತು ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ, ಅವನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವನು, ಆಧಿಪತ್ಯವು ಅವನದ್ದು ಮತ್ತು ಸ್ತುತಿಯು ಅವನಿಗೆ, ಅವನು ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲೂ ಸಾಮರ್ಥ್ಯವುಳ್ಳವನು.",
+	"UrduText": "La ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shay-in qadeer.  [ten times or once if lazy]",
+	"UrduTranslate":"اللہ  تعالیٰ کے علاوہ کوئی (سچا)معبود نہیں،وہ اکیلا ہے، اس کا کوئی شریک نہیں اسی کی بادشاہت اور اسی کی تعریف ہے۔اور وہ ہر چیز پر کامل قدرت رکھتا ہے",
 	"Timing":"morningAndEvening",
 	"Repeat": 10,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/92.mp3"
@@ -395,6 +455,8 @@ export const data=
 	"RomanUrduTranslate":"Allah ke ilawa koi mabood nahi woh akela hai, us ka koi shareek nahi, usi ki badshahat hai aur usi ki tareef hai aur woh har cheez par kaamil qudrat rakhtahai",
 	"KannadaText": "ಲಾ ಇಲಾಹ ಇಲ್ಲಲ್ಲಾಹು ವಹ್ದಹೂ ಲಾ ಶರೀಕ ಲಹೂ, ಲಹುಲ್ ಮುಲ್ಕು ವಲಹುಲ್ ಹಮ್ದು, ವಹುವ ಅಲಾ ಕುಲ್ಲಿ ಶೈಇನ್ ಕದೀರ್ (ಬೆಳಿಗ್ಗೆ ನೂರು ಸಲ)",
 	"KannadaTranslate":"ಅಲ್ಲಾಹನ ಹೊರತು ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ, ಅವನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವನು, ಆಧಿಪತ್ಯವು ಅವನದ್ದು ಮತ್ತು ಸ್ತುತಿಯು ಅವನಿಗೆ, ಅವನು ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲೂ ಸಾಮರ್ಥ್ಯವುಳ್ಳವನು.",
+	"UrduText": "La ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shay-in qadeer. ",
+	"UrduTranslate":"اللہ  تعالیٰ کے علاوہ کوئی (سچا)معبود نہیں،وہ اکیلا ہے، اس کا کوئی شریک نہیں اسی کی بادشاہت اور اسی کی تعریف ہے۔اور وہ ہر چیز پر کامل قدرت رکھتا ہے",
 	"Timing":"morningAndEvening",
 	"Repeat": 100,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/93.mp3"
@@ -408,6 +470,8 @@ export const data=
 	"RomanUrduTranslate":"Mein Allah se bakhshish mangta hun aur us ke huzoor tauba karta hun",
 	"KannadaText": "ಅಸ್ತಗ್‍ಫಿರುಲ್ಲಾಹ ವಅತೂಬು ಇಲೈಹಿ (ಪ್ರತಿದಿನ ನೂರು ಸಲ)",
 	"KannadaTranslate":"ನಾನು ಅಲ್ಲಾಹನೊಂದಿಗೆ ಪಾಪಮುಕ್ತಿ ಬೇಡುತ್ತಾ ಅವನೆಡೆಗೆ ಪಶ್ಚಾತ್ತಾಪಪಟ್ಟು ಮರಳುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "Astaghfirullaaha wa 'atoobu 'ilayhi[one hundred times a day]",
+	"UrduTranslate":"میں اللہ  سے بخشش مانگتاہوں اور اس کے حضور توبہ کرتاہوں",
 	"Timing":"morning",
 	"Repeat": 100,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/96.mp3"
@@ -421,6 +485,8 @@ export const data=
 	"RomanUrduTranslate":"Mein Allah taala ke mukammal kalmaat ki panah mein aata hun us ki makhlooq ke shar se.",
 	"KannadaText": "ಅಊದು ಬಿಕಲಿಮಾತಿಲ್ಲಾಹಿ ತ್ತಾಮ್ಮಾತಿ ಮಿನ್ ಶರ್ರಿ ಮಾ ಖಲಕ್ (ಸಂಜೆ ಮೂರು ಸಲ)",
 	"KannadaTranslate":"ಅಲ್ಲಾಹನ ಪರಿಪೂರ್ಣ ವಚನಗಳೊಂದಿಗೆ ಅವನು ಸೃಷ್ಟಿಸಿದ ಕೆಡುಕಿನಿಂದ ನಾನು ರಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದೇನೆ.",
+	"UrduText": "aAAoothu bikalimatil-lahit-tammati min sharri ma khalaq.",
+	"UrduTranslate":"میں  اللہ  کے مکمل کلمات کی پناہ میں آتا ہوں اس کی مخلوق کے شر سے",
 	"Timing":"evening",
 	"Repeat": 3,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/97.mp3"
@@ -434,6 +500,8 @@ export const data=
 	"RomanUrduTranslate":"Ae Allah! rehmat nazil farma hamare Nabi Mohammad ﷺ par.",
 	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಸಲ್ಲಿ ವಸಲ್ಲಿಮ್ ಅಲಾ ನಬಿಯ್ಯಿನಾ ಮುಹಮ್ಮದ್ (ಹತ್ತು ಸಲ).",
 	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹು! ನಮ್ಮ ಪ್ರವಾದಿಯಾದ ಮುಹಮ್ಮದ್()ರವರ ಮೇಲೆ ಸಲಾತ್ ಮತ್ತು ಸಲಾಮ್ ಸುರಿಸು.",
+	"UrduText": "Allaahumma salli wa sallim 'alaa Nabiyyinaa Muhammadin",
+	"UrduTranslate":"اے اللہ ! ہمارے نبی حضرت محمد ﷺ پر درودوسلام بھیج",
 	"Timing":"morningAndEvening",
 	"Repeat": 10,
 	"Audio": "http://www.hisnmuslim.com/audio/ar/98.mp3"
