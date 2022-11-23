@@ -108,13 +108,6 @@ export default function Navbar({darkModeStateFunc}) {
                   alt="Your Company"
                 />
 
-                {/* <Image
-                  height="30"
-                  layout="responsive"
-                  className="hidden h-8 w-auto lg:hidden"
-                  src={pic}
-                  alt="Your Company"
-                /> */}
               </div>
               <div className="hidden sm:ml-6 sm:flex items-center ">
                 <div className="flex space-x-4">
@@ -128,173 +121,16 @@ export default function Navbar({darkModeStateFunc}) {
                       Azkar
                     </a>
                   </Link>
-                  <Link href="/audioQuran">
+                  <Link href="/AudioQuran">
                     <a className=" hover:text-slate-100 bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-full text-sm font-medium">
                       Audio Quran
                     </a>
                   </Link>
-                  <div className="relative inline-block text-left">
-                    <div>
-                      <button
-                        onClick={() => setDownloadDropDown(!downloadDropDown)}
-                        type="button"
-                        className="inline-flex w-full justify-center rounded-full button bg-white px-4 py-2 text-sm font-medium  shadow-sm hover:bg-gray-50 "
-                        id="menu-button"
-                        aria-expanded="true"
-                        aria-haspopup="true"
-                      >
-                        Downloads
-                        {/* <!-- Heroicon name: mini/chevron-down --> */}
-                        <svg
-                          className="-mr-1 ml-2 h-5 w-5"
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          aria-hidden="true"
-                        >
-                          <path
-                            fillRule="evenodd"
-                            d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                            clipRule="evenodd"
-                          />
-                        </svg>
-                      </button>
-                    </div>
-
-                    <div
-                      className={`absolute z-10 mt-2 w-fit ${
-                        downloadDropDown ? "block" : "hidden"
-                      } bg-[#282f48] origin-top-right rounded-md`}
-                      role="menu"
-                      aria-orientation="vertical"
-                      aria-labelledby="menu-button"
-                      tabIndex="-1"
-                    >
-                      <div className="py-1 w-40" role="none">
-                        {/* <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" --> */}
-                        <Link href="#">
-                          <a
-                            onClick={() =>
-                              setDownloadDropDown(!downloadDropDown)
-                            }
-                            className="text-white block  px-4 py-2 text-base"
-                            role="menuitem"
-                            tabIndex="-1"
-                            id="menu-item-0"
-                          >
-                            Hisnul Muslim kannada
-                          </a>
-                        </Link>
-                        <Link href="#">
-                          <a
-                            onClick={() =>
-                              setDownloadDropDown(!downloadDropDown)
-                            }
-                            className="text-white block  px-4 py-2 text-base"
-                            role="menuitem"
-                            tabIndex="-1"
-                            id="menu-item-1"
-                          >
-                            Support
-                          </a>
-                        </Link>
-                        <Link href="#">
-                          <a
-                            onClick={() =>
-                              setDownloadDropDown(!downloadDropDown)
-                            }
-                            className="text-white block  px-4 py-2 text-base"
-                            role="menuitem"
-                            tabIndex="-1"
-                            id="menu-item-2"
-                          >
-                            License
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="relative inline-block text-left">
-                    <div>
-                      <button
-                        onClick={() => setDownloadDropDown(!downloadDropDown)}
-                        type="button"
-                        className="inline-flex w-full justify-center rounded-full button bg-white px-4 py-2 text-sm font-medium  shadow-sm hover:bg-gray-50 "
-                        id="menu-button"
-                        aria-expanded="true"
-                        aria-haspopup="true"
-                      >
-                        Language
-                        {/* <!-- Heroicon name: mini/chevron-down --> */}
-                        <svg
-                          className="-mr-1 ml-2 h-5 w-5"
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          aria-hidden="true"
-                        >
-                          <path
-                            fillRule="evenodd"
-                            d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                            clipRule="evenodd"
-                          />
-                        </svg>
-                      </button>
-                    </div>
-
-                    <div
-                      className={`absolute z-10 mt-2 w-fit ${
-                        downloadDropDown ? "block" : "hidden"
-                      } bg-[#282f48] origin-top-right rounded-md`}
-                      role="menu"
-                      aria-orientation="vertical"
-                      aria-labelledby="menu-button"
-                      tabIndex="-1"
-                    >
-                      <div className="py-1 w-40" role="none">
-                        {/* <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" --> */}
-                        <Link href="#">
-                          <a
-                            onClick={() =>
-                              setDownloadDropDown(!downloadDropDown)
-                            }
-                            className="text-white block  px-4 py-2 text-base"
-                            role="menuitem"
-                            tabIndex="-1"
-                            id="menu-item-0"
-                          >
-                            Hisnul Muslim kannada
-                          </a>
-                        </Link>
-                        <Link href="#">
-                          <a
-                            onClick={() =>
-                              setDownloadDropDown(!downloadDropDown)
-                            }
-                            className="text-white block  px-4 py-2 text-base"
-                            role="menuitem"
-                            tabIndex="-1"
-                            id="menu-item-1"
-                          >
-                            Support
-                          </a>
-                        </Link>
-                        <Link href="#">
-                          <a
-                            onClick={() =>
-                              setDownloadDropDown(!downloadDropDown)
-                            }
-                            className="text-white block  px-4 py-2 text-base"
-                            role="menuitem"
-                            tabIndex="-1"
-                            id="menu-item-2"
-                          >
-                            License
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                  </div>
+                  <Link href="/Download">
+                    <a className=" hover:text-slate-100 bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-full text-sm font-medium">
+                      Downlaods
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -324,44 +160,26 @@ export default function Navbar({darkModeStateFunc}) {
             <Link href="/">
               <a
                 className="bg-gray-900 text-white block px-5 py-2 rounded-md text-sm font-medium button"
-                aria-current="page"
-              >
+                aria-current="page">
                 Azkar
               </a>
             </Link>
-            <Link href="/audioQuran">
+            <Link href="/AudioQuran">
               <a className=" hover:text-slate-100 block bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-md text-sm font-medium">
                 Audio Quran
               </a>
             </Link>
-            <div className="relative block text-left">
-              <div>
-                <button
-                  onClick={() => setDownloadDropDown(!downloadDropDown)}
-                  type="button"
-                  className="inline-flex w-full rounded-md button bg-white px-4 py-2 text-sm font-medium  shadow-sm hover:bg-gray-50 "
-                  id="menu-button"
-                  aria-expanded="true"
-                  aria-haspopup="true"
-                >
-                  Downloads
-                  {/* <!-- Heroicon name: mini/chevron-down --> */}
-                  <svg
-                    className="-mr-1 ml-2 h-5 w-5"
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                    aria-hidden="true"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </button>
-              </div>
-            </div>
+            <Link href="/Download">
+              <a className=" hover:text-slate-100 block capitalize bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-md text-sm font-medium">
+                downloads
+              </a>
+            </Link>
+            <Link href="/About">
+              <a className=" hover:text-slate-100 block bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-md text-sm font-medium">
+                About
+              </a>
+            </Link>
+          
           </div>
         </div>
       </nav>

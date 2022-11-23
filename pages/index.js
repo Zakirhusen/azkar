@@ -112,7 +112,6 @@ const languageFunc=(language) => {
             </svg>
           </button>
         </div>
-
         <div
           className={`absolute z-10 mt-2 w-fit ${
             languageDropdown ? "block" : "hidden"
