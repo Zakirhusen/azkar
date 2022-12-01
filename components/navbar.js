@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import Image from "next/image";
-import pic from "../public/images.png";
+
 import Link from "next/link";
 import {IoToggle} from "react-icons/io5";
 export default function Navbar({darkModeStateFunc}) {
@@ -20,7 +19,6 @@ export default function Navbar({darkModeStateFunc}) {
     let toggleFunc = (e) => {
       console.log("useEffect is running");
       if (
-        refMobileMenu.current &&
         refMobileMenu.current &&
         !refMobileMenu.current.contains(e.target)
       ) {
@@ -45,7 +43,7 @@ export default function Navbar({darkModeStateFunc}) {
 
   return (
     <>
-      <nav className={`${toggleDarkMode?"bg-[#282f48]":"bg-white"} sticky top-0 z-20`} >
+      <nav className={`${toggleDarkMode?"bg-[#282f48]":"bg-white"} sticky top-0 z-30`} >
         <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
           <div className="relative flex h-16 items-center justify-between">
             <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -131,6 +129,11 @@ export default function Navbar({darkModeStateFunc}) {
                       Downlaods
                     </a>
                   </Link>
+                  <Link href="/About">
+                    <a className=" hover:text-slate-100 bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-full text-sm font-medium">
+                      About
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -151,7 +154,7 @@ export default function Navbar({darkModeStateFunc}) {
         {/* <!-- Mobile menu, show/hide based on menu state. --> */}
         <div
           ref={refMobileMenuDisplay}
-          className={`sm:hidden ${toggleMobileMenu ? "hidden" : "block"}`}
+          className={`sm:hidden  button h-screen w-4/5 ${toggleMobileMenu ? "hidden" : "block"} `}
           id="mobile-menu"
         >
           <div className="space-y-1 px-2 pt-2 pb-3">

@@ -40,7 +40,7 @@ body {
 }
 audio::-webkit-media-controls-panel {
   background: rgb(255, 128, 113);
-
+  z-index: 10;
   background: linear-gradient(
     90deg,
     rgba(255, 128, 113, 1) 0%,
