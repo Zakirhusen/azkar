@@ -8,10 +8,10 @@ function MyApp({ Component, pageProps }) {
   let router=useRouter()
   const [toggleDarkMode, setToggleDarkMode] = useState(true)
   const [progress,setProgress] = useState(0);
-  if (router.isReady) {
-    router.events.on('routeChangeStart',()=>setProgress(50))
-    router.events.on('routeChangeComplete',()=>setProgress(100))
-  }
+  // if (router.isReady) {
+  //   router.events.on('routeChangeStart',()=>setProgress(50))
+  //   router.events.on('routeChangeComplete',()=>setProgress(100))
+  // }
   
   // getting data from child
   const darkModeStateFunc =(mode) => {
