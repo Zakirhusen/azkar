@@ -136,7 +136,7 @@ const languageFunc=(language) => {
             ref={refAzkarTimingDropDown}
             onClick={() => setAzkarTimingDropdown(!azkarTimingDropdown)}
             type="button"
-            className="inline-flex w-full capitalize justify-center rounded-sm button  px-4 py-2 text-sm font-medium  shadow-sm "
+            className="inline-flex w-full capitalize justify-center rounded-sm button  px-4 py-2 text-sm font-medium z-40 shadow-sm "
             id="menu-button"
             aria-expanded="true"
             aria-haspopup="true"
