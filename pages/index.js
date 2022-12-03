@@ -227,7 +227,7 @@ const languageFunc=(language) => {
       <div
             onClick={() => window.scrollTo({top:0,left:0,behavior:"smooth"})}
             type="button"
-            className="flex w-10 flex-col opacity-70 hover:opacity-100 fixed bottom-5 right-5  h-10 items-center m-0 justify-center rounded-full button p-2  shadow-sm "
+            className="flex w-10 flex-col opacity-70 hover:opacity-100 fixed bottom-5 right-5  h-10 items-center m-0 justify-center rounded-full button p-2 z-30 shadow-sm "
             id="menu-button"
             aria-expanded="true"
             aria-haspopup="true"
@@ -237,8 +237,8 @@ const languageFunc=(language) => {
             {/* <div className="opacity-100 text-sm text-center block">Top</div> */}
             
           </div>
-      <footer className="bg-slate-400 h-28 flex justify-center items-center">
-        <div className="m-4 h-4">Zakir@{(new Date).getFullYear()} all rights reserverd</div>
+      <footer className="bg-slate-400 button h-28 flex justify-center items-center">
+        <div className="m-4 capitalize h-4">Copyright @{(new Date).getFullYear()} all rights reserved</div>
       </footer>
       </div>
     </>
