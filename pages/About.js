@@ -3,7 +3,7 @@ const About = () => {
   return (
     <div className="my-5 px-10 text-sm sm:text-base  to-blue-200">
       This website contains mornig and evening authentic duas/supplications from
-      the popular book of authentic supplications, "Hisnul- Muslim"
+      the popular book of authentic supplications, Hisnul- Muslim
       (Fortification of the Muslim). Please Note, transliteration has been
       added, just for assistance to Muslims who are still learning Arabic. One
       must not depend on transliteration, and strive to learn arabic. The audio
@@ -25,6 +25,10 @@ const About = () => {
         </a>
       </p>
       <p></p>
+      {/* https://api3.islamhouse.com/v3/pav29h2gm56kvlpy/main/get-item/2807299/en/json
+      {/* https://d1.islamhouse.com/data/kn/ih_books/single/kn_hisnul_muslim.pdf */}
+      {/* ಅಲ್ ಉಸೂಲು ಸ್ಸಲಾಸ (ಮೂರು ಮೂಲಭೂತ ನಿಯಮಗಳು)", */}
+      {/* "url": "https://d1.islamhouse.com/data/kn/ih_books/single/kn_usool_thalatha.pdf" */}
     </div>
   );
 };

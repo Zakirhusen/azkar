@@ -25,7 +25,7 @@ const Download = () => {
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/kn/ih_books/single/kn_hisnul_muslim.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/kn/ih_books/single/kn_hisnul_muslim.pdf" 
               target="_blank">
               <FaCloudDownloadAlt size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaCloudDownloadAlt>
             </a>
@@ -34,7 +34,7 @@ const Download = () => {
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/kn/ih_books/single/kn_hisnul_muslim.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/kn/ih_books/single/kn_hisnul_muslim.pdf" 
               target="_blank">
               <FaEye size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaEye>
             </a>
@@ -48,14 +48,14 @@ const Download = () => {
             English</h5>
           <p className="text-gray-700 text-base mb-4">
             Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            bulk of the card content.
           </p>
           <div className="flex  space-x-2">
           <button
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/en/ih_books/single/en_Hisn_El_Muslim.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/en/ih_books/single/en_Hisn_El_Muslim.pdf" 
               target="_blank">
               <FaCloudDownloadAlt size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaCloudDownloadAlt>
             </a>
@@ -64,7 +64,7 @@ const Download = () => {
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/en/ih_books/single/en_Hisn_El_Muslim.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/en/ih_books/single/en_Hisn_El_Muslim.pdf" 
               target="_blank">
               <FaEye size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaEye>
             </a>
@@ -79,14 +79,14 @@ const Download = () => {
           </h5>
           <p className="text-gray-700 text-base mb-4">
             Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            bulk of the card content.
           </p>
           <div className="flex  space-x-2">
           <button
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/ur/ih_books/single2/ur_Hisnul_Muslim.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/ur/ih_books/single2/ur_Hisnul_Muslim.pdf" 
               target="_blank">
               <FaCloudDownloadAlt size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaCloudDownloadAlt>
             </a>
@@ -95,7 +95,7 @@ const Download = () => {
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/ur/ih_books/single2/ur_Hisnul_Muslim.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/ur/ih_books/single2/ur_Hisnul_Muslim.pdf" 
               target="_blank">
               <FaEye size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaEye>
             </a>
@@ -110,14 +110,14 @@ const Download = () => {
           </h5>
           <p className="text-gray-700 text-base mb-4">
             Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            bulk of the card content.
           </p>
           <div className="flex  space-x-2">
           <button
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/hi/ih_books/single/hi_hisn_almuslem_1436.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/hi/ih_books/single/hi_hisn_almuslem_1436.pdf" 
               target="_blank">
               <FaCloudDownloadAlt size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaCloudDownloadAlt>
             </a>
@@ -126,7 +126,7 @@ const Download = () => {
             type="button"
             className=" flex justify-center"
           >
-            <a className="text-base " href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/hi/ih_books/single/hi_hisn_almuslem_1436.pdf" 
+            <a className="text-base " rel="noreferrer"  href="https://d1.islamhouse.com/data/pdf-viewer/web/viewer.html?file=https://d1.islamhouse.com/data/hi/ih_books/single/hi_hisn_almuslem_1436.pdf" 
               target="_blank">
               <FaEye size="1.6rem" color="white" className="button rounded-md p-1 m-0 inline"></FaEye>
             </a>
