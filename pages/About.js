@@ -25,10 +25,6 @@ const About = () => {
         </a>
       </p>
       <p></p>
-      {/* https://api3.islamhouse.com/v3/pav29h2gm56kvlpy/main/get-item/2807299/en/json
-      {/* https://d1.islamhouse.com/data/kn/ih_books/single/kn_hisnul_muslim.pdf */}
-      {/* ಅಲ್ ಉಸೂಲು ಸ್ಸಲಾಸ (ಮೂರು ಮೂಲಭೂತ ನಿಯಮಗಳು)", */}
-      {/* "url": "https://d1.islamhouse.com/data/kn/ih_books/single/kn_usool_thalatha.pdf" */}
     </div>
   );
 };
