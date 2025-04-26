@@ -163,21 +163,6 @@ export const data=
 	},
 	{
 	"Id": 1,
-	"ArabicText": "اللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ، وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلاَئِكَتِكَ، وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ، وَأَنَّ مُحَمَّداً عَبْدُكَ وَرَسُولُكَ (أربعَ مَرَّاتٍ)",
-	"EnglishText": "Allahumma innee asbahtu oshhiduk, wa-oshhidu hamalata AAarshik, wamala-ikatak, wajameeAAa khalqik, annaka antal-lahu la ilaha illa ant, wahdaka la shareeka lak, wa-anna Muhammadan AAabduka warasooluk.",
-	"EnglishTranslate": "O Allah, verily I have reached the morning and call on You, the bearers of Your throne, Your angles, and all of Your creation to witness that You are Allah, none has the right to be worshipped except You, alone, without partner and that Muhammad is Your Servant and Messenger.",
-	"RomanUrduText": "Allahumma innee asbahtu oshhiduk, wa-oshhidu hamalata AAarshik, wamala-ikatak, wajameeAAa khalqik, annaka antal-lahu la ilaha illa ant, wahdaka la shareeka lak, wa-anna Muhammadan AAabduka warasooluk.",
-	"RomanUrduTranslate":"Ae Allah! yaqeenan mein ne aisi haalat mein subah ki ke tujhe, tera arsh uthany walay farishton, tairay (deegar) farishton aur teri tamam makhlooq ko is baat par gawah banata hun ke Tu hi Allah hai, tairay siwa koi mabood nahi Tu akela hai, tera koi shareek nahi aur bilaa shuba Mohammad tairay bande aur tairay Rasool hain.",
-	"KannadaText": "ಅಲ್ಲಾಹುಮ್ಮ ಇನ್ನೀ ಅಸ್ಬಹ್ತು, ಉಶ್‍ಹಿದುಕ ವಉಶ್‍ಹಿದು ಹಮಲತ ಅರ್ಶಿಕ, ವಮಲಾಇಕತಕ, ವಜಮೀಅ ಖಲ್ಕಿಕ, ಅನ್ನಕ ಅನ್ತಲ್ಲಾಹು ಲಾ ಇಲಾಹ ಇಲ್ಲಾ ಅನ್ತ ವಹ್ದಕ ಲಾ ಶರೀಕ ಲಕ, ವಅನ್ನ ಮುಹಮ್ಮದನ್ ಅಬ್ದುಕ ವರಸೂಲುಕ್ (ನಾಲ್ಕು ಸಲ)",
-	"KannadaTranslate":"ಓ ಅಲ್ಲಾಹ್! ನೀನು ಅಲ್ಲಾಹನಾಗಿರುವೆ, ನಿನ್ನ ಹೊರತು ಆರಾಧನೆಗೆ ನೈಜ ಹಕ್ಕುದಾರರಾಗಿ ಅನ್ಯರಿಲ್ಲ. ನೀನು ಏಕೈಕನೂ ಸಹಭಾಗಿರಹಿತನೂ ಆಗಿರುವೆ, ಮತ್ತು ಮುಹಮ್ಮದ್ ನಿನ್ನ ದಾಸರೂ ರಸೂಲರೂ ಆಗಿರುವರು ನಿನ್ನನ್ನು ಸಾಕ್ಷಿಯಾಗಿಸುತ್ತಾ, ನಿನ್ನ ಅರ್ಶನ್ನು ಹೊರುವವರನ್ನು, ನಿನ್ನ ಮಲಕ್‍ಗಳನ್ನು ಮತ್ತು ನಿನ್ನ ಸಂಪೂರ್ಣ ಸೃಷ್ಟಿಯನ್ನು ಸಾಕ್ಷಿಯಾಗಿಸುತ್ತಾ ನಾನು ಬೆಳಗನ್ನು ಪ್ರವೇಶಿಸಿದ್ದೇನೆ.",
-	"UrduText": "Allahumma innee asbahtu oshhiduk, wa-oshhidu hamalata AAarshik, wamala-ikatak, wajameeAAa khalqik, annaka antal-lahu la ilaha illa ant, wahdaka la shareeka lak, wa-anna Muhammadan AAabduka warasooluk.",
-	"UrduTranslate":"اے اللہ ! یقیناََ میں نے ایسی حالت میں صبح کی کہ تجھے گواہ بناتا ہوں اور تیرا عرش اٹھانے والوں اور تیرے فرشتوں اور تیری تمام مخلوق کو اس اقرار پر گواہ بناتا ہوں کہ تو ہی اللہ  ہے،تیرے سوا کوئی (سچا)معبود نہیں ۔تو اکیلا ہے،تیرا کوئی شریک نہیں۔اور بلاشبہ حضرت محمدﷺ تیرے بندے اور تیرے رسول ہیں",
-	"Timing":"morning",
-	"Repeat": 4,
-	"Audio": "http://www.hisnmuslim.com/audio/ar/80.mp3"
-	},
-	{
-	"Id": 1,
 	"ArabicText": "اللَّهُمَّ إِنِّي أَمْسَيْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلَائِكَتَكَ وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللهُ لَا إِلَهَ إِلَّا أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ، وَأَنَّ مُحَمَّداً عَبْدُكَ وَرَسُولُكَ (أربعَ مَرَّاتٍ)",
 	"EnglishText": "Allahumma innee amsaytu oshhiduk, wa-oshhidu hamalata AAarshik, wamala-ikatak, wajameeAAa khalqik, annaka antal-lahu la ilaha illa ant, wahdaka la shareeka lak, wa-anna Muhammadan AAabduka warasooluk.",
 	"EnglishTranslate": "O Allah, verily I have reached the morning and call on You, the bearers of Your throne, Your angles, and all of Your creation to witness that You are Allah, none has the right to be worshipped except You, alone, without partner and that Muhammad is Your Servant and Messenger.",
