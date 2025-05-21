@@ -102,8 +102,7 @@ export default function Navbar({darkModeStateFunc}) {
               <div className="flex flex-shrink-0 items-center">
                 <img
                   className="block h-16 rounded- lg:block"
-                  src={toggleDarkMode? "iamages1.png" : "images2.png"} 
-                  
+                  src={toggleDarkMode? "images1.png" : "images2.png"} 
                   alt="Your Company"
                 />
 
