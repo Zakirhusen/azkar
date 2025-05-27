@@ -131,7 +131,7 @@ export default function Navbar({darkModeStateFunc}) {
                   </Link>
                   <Link href="/About">
                     <a className=" hover:text-slate-100 bg-slate-100 hover:bg-blue-900 px-5 py-2 button rounded-full text-sm font-medium">
-                      About It
+                      About
                     </a>
                   </Link>
                 </div>
